@@ -9,7 +9,7 @@ $$gdzie:
 **k** - ilość sukcesów
 **p** - prawdopodobieństwo sukcesu
 **q** - prawdopodobieństwo porażki
-
+:)
 ### Parametry
 
 $E(X) = np$
