@@ -125,3 +125,5 @@ public class Main{
 
 ``
 W tym wypadku wszystkie wątki kończą się równocześnie.
+
+# `volatile` vs `AtomicInteger`
