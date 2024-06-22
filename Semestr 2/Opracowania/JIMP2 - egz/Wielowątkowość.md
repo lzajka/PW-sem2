@@ -129,4 +129,20 @@ W tym wypadku wszystkie wątki kończą się równocześnie.
 Używane w przypadku w którym wartość zmiennej może zostać zmieniona w innym wątku. Przeciwdziała cachowaniu wartości zmiennej, bez użycia możliwe jest że wątek będzie czytał starą wersję zmiennej.
 
 
-# 
+# `synchronized`
+Blok kodu/metoda który może być wykonywany jedynie przez jeden wątek na raz.
+
+## Przykład 1 - Metoda
+```java
+public synchronized void doStuff(){
+	// do stuff here
+}
+```
+## Przykład 2 - Blok
+```java
+public void doStuffV2(){
+	synchronized(this) {
+		// do stuff here
+	}
+}
+```
