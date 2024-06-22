@@ -129,4 +129,4 @@ W tym wypadku wszystkie wątki kończą się równocześnie.
 Używane w przypadku w którym wartość zmiennej może zostać zmieniona w innym wątku. Przeciwdziała cachowaniu wartości zmiennej, bez użycia możliwe jest że wątek będzie czytał starą wersję zmiennej.
 
 
-
+# 
