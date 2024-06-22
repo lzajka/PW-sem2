@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "7e3bdfd87a97337d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "widzisz mnie?.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a37cea2487eeacda",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+                "file": "widzisz mnie?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+                "file": "widzisz mnie?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Laplace.md"
+                "file": "widzisz mnie?.md"
               }
             }
           },
@@ -224,8 +237,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "16d14ea074f1b012",
+  "active": "7e3bdfd87a97337d",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "widzisz mnie?.md",
     "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
     "Semestr 2/Opracowania/MPIS - kol2 + egz/Moment Zmiennej losowej.md",
     "Semestr 2/Opracowania/MPIS - kol2 + egz/Moment zmiennej.md",
@@ -251,8 +266,6 @@
     "Semestr 2/Opracowania/MPIS - kol2 + egz/Rozkład x2.md",
     "Semestr 2/Opracowania/MPIS - kol 1",
     "Poissona.md",
-    "2024-06-19.md",
-    "Semestr 2/Opracowania/TMNOG - kol1/Indukcja.md",
     "Pasted image 20240618233813.png",
     "Pasted image 20240618233549.png",
     "Pasted image 20240618233526.png",
