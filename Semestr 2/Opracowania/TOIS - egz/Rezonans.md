@@ -1,0 +1,1 @@
+Na jakiejś części obwodu prąd/napięcie płynie, tak że nie ma części urojonej.

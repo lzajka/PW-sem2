@@ -1,0 +1,1 @@
+Jest to rozkład prawdopodobieństwa zmiennej losowej w postaci $X_{1}^2 + X_{2}^2+\dots+X_{k}^2$. 

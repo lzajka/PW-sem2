@@ -1,0 +1,3 @@
+- `binarySearch()`
+- `T copyOf(T original, int newLength)` - zwraca kopię tablicy
+- `T copyOfRange(T original, int from, int to)` 

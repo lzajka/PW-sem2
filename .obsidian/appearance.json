@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "baseFontSize": 21,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "big-math"
+  ],
+  "cssTheme": ""
+}

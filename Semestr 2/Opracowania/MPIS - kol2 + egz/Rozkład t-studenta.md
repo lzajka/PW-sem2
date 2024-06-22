@@ -1,0 +1,1 @@
+Wygląda podobnie do [[Rozkład normalny]], tylko grubsza. Dla dużych statystyk używamy 
