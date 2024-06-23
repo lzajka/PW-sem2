@@ -6,16 +6,6 @@
 | Kiedy używać | 1. Planujesz zastąpienie pozostałych metod | 1. Planujesz zastąpić jednie metodę `run`<br>2. Chcesz używać super klasy<br>3. Chcesz używać w wielu wątkach jednego obiektu<br> |
 |              |                                            |                                                                                                                                   |
 
-# race-conditions
-W przypadku jeżeli do jednej zmiennej może mieć dostęp metoda w wielu różnych wątkach może dojść do **race-condition**. 
-## Przykłady
-- Wypłacasz pieniądze z banku w 2 wątkach, konieczne jest sprawdzenie czy masz wystarczająco dużo pieniędzy, 2 metody przechodzą to wymaganie równocześnie, i odejmują ci, może dojść do przejścia na liczbę ujemną bądź integer overflow
-- Jedna wartość jest zmieniana w 2 wątkach, W tym przypadku może dojść do tego że operacja będzie wykonywana na nieaktualnej wartości (z pominięciem wątku 1)
-## Przeciwdziałanie
-- synchronized
-- atomic
-
-
 # Thread
 
 ## Implementacja wątku
@@ -196,4 +186,56 @@ Można ustawić domyślną wartość początkową za pomocą `ThreadLocal.withIn
 ## InheritableThreadLocal<>
 W przypadku gdy wątek tworzy wątek dziecko, ponieważ jest to inny wątek normalny `ThreadLocal` będzie traktował ten wątek jako osobny. W przypadku `InheritableThreadLocal` wątek dziecko odziedziczy wartość po rodzicu.
 Posiada nadpisywalną metodę `T childValue(T parentValue)` która ustawia domyślną wartość dziecka. Można np. zinkrementować zmienną głębokość.
-# Zmienne atomiczne
+# Race Conditions
+Występują wtedy kiedy operacja nie jest atomiczna, tzn że składa się z kilku elementów, np. czytanie, dodatnie 1, zapis.
+W tym przypadku wątki mogą wykonać czytanie w tym samym momencie, i wtedy zapiszą tą samą wartość. Rozwiązaniem tego problemu jest `synchronized`, albo użycie atomicznej zmiennej. 
+> [!WARNING] UWAGA
+> W przypadku atomicznych zmiennych, atomiczne są jedynie metody. Użycie kilku atomicznych metod nie jest atomiczne.
+
+# Współbieżność vs równoległe wykonywanie
+Współbieżność polega na tym że jeden wątek wykonuje się przez pewną chwilę, a potem 2 wątek. 
+Równoległość polega na tym że 2 wątki są wykonywane na raz na różnych CPU.
+
+# Równoległość
+To dzielenie jednego tasku na podtaski, które mogą być wykonywane równolegle.
+# Interfejs Lock
+
+# ThreadPool
+Pozwala na wykonywanie kilku tasków na kilku przypisanych wątkach. Taski są wykonywane według kolejki. 
+
+## Implementacja
+Najpierw tworzymy obiekt typu `ThreadPool` w konstruktorze podajemy ilość wątków oraz maksymalną ilością tasków.
+```java
+ThreadPool threadPool = new ThreadPool(3, 10);
+```
+W tym przypadku tworzymy **3 wątki** i ustawiamy pojemność kolejki na **10 tasków**
+
+Następnie Dodajemy taski za pomocą metody `execute`:
+```java
+for(int i = 0; i < 10; i++) {
+	threadPool.execute( () -> {
+		System.out.println("Hello from task #" + i + " in Thread: " + Thread.currentThread().getName());
+	});
+}
+```
+
+Czekamy aż wszystkie taski się zakończą i zatrzymujemy `threadPool`
+```java
+threadPool.waitUntilAllTasksAreFinished();
+threadPool.stop();
+```
+
+## Przykład
+```java
+public class Main{
+	public static void main(String[] args) {
+		ThreadPool threadPool = new ThreadPool(3, 10);
+		
+		for(int i = 0; i < 10; i++) {
+			threadPool.execute( () -> {
+				System.out.println("Hello from task #" + i + " in Thread: " + Thread.currentThread().getName());
+			});
+		}	
+	}
+}
+```
