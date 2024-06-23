@@ -131,14 +131,22 @@ Używane w przypadku w którym wartość zmiennej może zostać zmieniona w inny
 
 # `synchronized`
 Blok kodu/metoda który może być wykonywany jedynie przez jeden wątek na raz.
+Monitor to w tym przypadku obiekt na którym synchronizacja jest wykonywana. W przypadku metod jest to zawsze `this`
+Metody i bloki oznaczone jako `synchronized` które posiadają taki sam monitor nie mogą być wykonywane równocześnie. 
+Jako monitory można używać innych zainicjowanych obiektów.
 
-## Przykład 1 - Metoda
+> [!WARNING] UWAGA
+> Kolejność w której dany wątek dostanie dostęp do bloku/metody `synchronized` nie koniecznie jest taki, jak kolejność wywołania. Nie ma kolejki.
+> Przypadek w którym dany wątek nie otrzyma dostępu nazywa się **głodzieniem**.
+
+
+### Przykład 1 - Metoda
 ```java
 public synchronized void doStuff(){
 	// do stuff here
 }
 ```
-## Przykład 2 - Blok
+### Przykład 2 - Blok
 ```java
 public void doStuffV2(){
 	synchronized(this) {
@@ -146,3 +154,33 @@ public void doStuffV2(){
 	}
 }
 ```
+
+## W metodach statycznych
+Ponieważ metody statycznie nie należą do **instancji** klasy, a do **obiektu** klasy. `synchronized` używa również obiektu klasy jako monitora.
+
+W przypadku metod `synchronized` nie trzeba niczego zmieniać.
+
+W przypadku boków `synchronized` należy użyć `NazwaKlasy.class` jako monitora.
+> [!WARNING] UWAGA
+> Metody statyczne oraz metody lokalne nie są synchronizowane na tym samym monitorze.
+### Przykład
+```java
+public class Balls {
+	public static synchronized void doBall(){
+		// do stuff
+	}
+	public static void doBall2() {
+		synchronized(Balls.class) {
+			// do stuff
+		}
+	}
+
+}
+```
+## Ponowne wejście
+W przypadku w którym jedna metoda zsynchronizowana będzie wywoływała inną metodę zsynchronizowaną, nie będzie nieskończonego oczekiwania, ponieważ skoro wątek trzyma zamek na monitorze, może on wejść bez problemu do wszystkich innych zsynchronizowanych po tym monitorze metod.
+
+## Widzialność danych
+`synchronized` przy wejściu aktualizuje cache, przy wyjściu od razu zapisuje do głównej pamięci.
+> [!WARNING] UWAGA
+> Dane pobierane poza `synchronized` mogą być nadal przestarzałe.
