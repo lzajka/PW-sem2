@@ -184,3 +184,6 @@ W przypadku w którym jedna metoda zsynchronizowana będzie wywoływała inną m
 `synchronized` przy wejściu aktualizuje cache, przy wyjściu od razu zapisuje do głównej pamięci.
 > [!WARNING] UWAGA
 > Dane pobierane poza `synchronized` mogą być nadal przestarzałe.
+# ThreadLocal
+
+# Zmienne atomiczne
