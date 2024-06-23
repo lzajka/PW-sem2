@@ -13,7 +13,7 @@ W przypadku jeżeli do jednej zmiennej może mieć dostęp metoda w wielu różn
 - Jedna wartość jest zmieniana w 2 wątkach, W tym przypadku może dojść do tego że operacja będzie wykonywana na nieaktualnej wartości (z pominięciem wątku 1)
 ## Przeciwdziałanie
 - synchronized
-- atomica
+- atomic
 
 
 # Thread
