@@ -374,3 +374,81 @@ Elementy są przechowywane w liście.
 Metoda pobiera elementy z kolejki do kolekcji.
 # Obiekty Atomiczne
 Obiekty atomiczne posiadają tylko metody atomiczne, czyli takie które mają tylko metody atomiczne, których nie można przepołowić.
+# False Sharing
+Procesor cachuje zmienne współdzielone przez wątki, w postaci bloków które często są większe niż same zmienne. W przypadku zmiany wartości współdzielonych przez 2 wątki, zmienne obok mogą również zostać oznaczone jako zmienione, mimo że się tak nie stało, to wymusi odświeżenie nawet nie zmienionych zmiennych, to jest **False Sharing**. False Sharing może znacznie obniżyć wydajność.
+
+## Unikanie
+Można rozdzielić zmienne za pomocą specjalnej adnotacji.
+```java
+@jdk.internal.jvm.annotation.Contended
+```
+Spowoduje to że zmienna zaanotwana tym będzie jedyną w bloku.
+Ewentualnie można podzielić na grupy
+```java
+@jdk.internal.jvm.annotation.Contended("nazwa")
+```
+Można również w ten sposób oznaczyć klasę. Wtedy wszystkie pola będą rozdzielone.
+
+```java
+@jdk.internal.jvm.annotation.Contended
+class Klasa {
+
+}
+```
+
+
+> [!WARNING] Ostrzeżenie
+> Czasami to oznaczenie może pogorszyć wydajność
+
+# Thread Congestion
+Występuje wtedy, kiedy kilka wątków próbuje uzyskać dostęp do np. metody zsynchronizowanej. W tym przypadku czas oczekiwania może być długi, i ogólnie to wątki marnują czas.
+## Przeciwdziałanie
+ W przypadku `BlockingQueue` można stworzyć kilka osobnych dla każdego wątku, i zrobić tak, aby producent rozdawał je po równo.
+
+# Sygnałowanie wątków
+Java posiada wbudowane mechanizmy pozwalające wątkom na stanie się nieaktywnymi do czasu do póki nie otrzymają sygnału.
+## `wait()`
+Ta metoda pozwala czekać na monitorze, dopóki nie wyśle on powiadomienia. Ta metoda musi być używana w bloku `synchronized` który ma ten sam monitor. Konieczne jest również obsłużenie wyjątku `InterruptedException`
+### Przykład
+```java
+class stuff {
+	Monitor monitor = new Monitor();
+
+	public void doWait(){
+		synchronized(monitor) {
+			try {
+				monitor.wait();
+			}
+			catch(InterruptedException) {
+			}
+		}
+	}
+
+}
+
+```
+## `notify()`
+Wybudza ona tylko jeden wątek.
+```java
+class stuff {
+	...
+
+	public void doNotify() {
+		synchronized(monitor) {
+			monitor.notify();
+		}
+	}
+}
+```
+W przypadku metody `notify` musi ona być wywołana w bloku `synchronized`
+
+
+
+
+> [!WARNING] UWAGA
+> W przypadku w którym wątek wyśle powiadomienie zanim 2 wątek zacznie czekać na sygnał, sygnał może zostać utracony, i wątek może czekać w nieskończoność. W celu zabezpieczania się przed tym warto mieć zmienną typu `boolean` która będzie ustawiana przed sygnałem, i sprawdzana przed rozpoczęciem czekania.
+
+> [!WARNING] UWAGA
+> Wątek może obudzić się bez otrzymania sygnału.
+## `notifyAll()`
+wybudza ona wszystkie wątki, działa podobnie do [[#`notify()`]]
