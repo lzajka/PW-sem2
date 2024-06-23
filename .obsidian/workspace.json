@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b836672682c48bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 2/Opracowania/MPIS - kol2 + egz/Rozkłady skokowe/Rozkład Bernoullego.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8270c1e6d083da1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 2/Opracowania/MPIS - kol2 + egz/Twierdzenia graniczne.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "27a30b07607c95ff",
             "type": "leaf",
             "state": {
@@ -72,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -192,12 +166,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 586.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +186,10 @@
   },
   "active": "27a30b07607c95ff",
   "lastOpenFiles": [
+    "Pasted image 20240623162625.png",
+    "Semestr 2/Opracowania/JIMP2 - egz/Podstawowe klasy.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Nieokreślona ilość argumentów.md",
     "Pasted image 20240623125222.png",
     "Semestr 2/Opracowania/JIMP2 - egz/Untitled.md",
     "Semestr 2/Opracowania/MPIS - kol2 + egz/Rozkłady skokowe/Rozkład Bernoullego.md",
@@ -236,9 +213,6 @@
     "Semestr 2/Opracowania/MPIS - kol2 + egz/Rozkład t-studenta.md",
     "Semestr 2/Opracowania/MPIS - kol2 + egz/Hipotezy statystyczne.md",
     "Semestr 2/Opracowania/MPIS - kol2 + egz/Elementy statystyki opisowej.md",
-    "Semestr 2/Opracowania/MPIS - kol2 + egz/Dwuwymiarowa zmienna losowa.md",
-    "Semestr 2/Opracowania/MPIS - kol2 + egz/Rozklady.md",
-    "Semestr 2/Opracowania/MPIS - kol2 + egz/Ważne pojęcia.md",
     "Semestr 2/Opracowania/MPIS - kol 1",
     "Pasted image 20240618233813.png",
     "Pasted image 20240618233549.png",
@@ -249,7 +223,6 @@
     "Pasted image 20240618232523.png",
     "Pasted image 20240618232326.png",
     "Pasted image 20240618232315.png",
-    "Pasted image 20240618232307.png",
     "Semestr 2/Opracowania/TOIS - egz",
     "Excalidraw",
     "Semestr 2/Wykłady/MPIS/15",

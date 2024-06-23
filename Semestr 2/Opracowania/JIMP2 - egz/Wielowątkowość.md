@@ -199,43 +199,178 @@ Równoległość polega na tym że 2 wątki są wykonywane na raz na różnych 
 # Równoległość
 To dzielenie jednego tasku na podtaski, które mogą być wykonywane równolegle.
 # Interfejs Lock
-
-# ThreadPool
-Pozwala na wykonywanie kilku tasków na kilku przypisanych wątkach. Taski są wykonywane według kolejki. 
-
-## Implementacja
-Najpierw tworzymy obiekt typu `ThreadPool` w konstruktorze podajemy ilość wątków oraz maksymalną ilością tasków.
+Wątek może zablokować element typu `Lock` za pomocą metody `lock()`, kolejne wątki nie będą w stanie go zablokować i będą zmuszę no czekania.
+Po zakończeniu krytycznej operacji należy wywołać metodę `unlock()` w celu odblokowania. `Lock` działa podobnie do `synchronized`
+`import java.util.concurrent.locks.*`
+W przypadku `ReentrantLock` pozwala on temu samemu wątki zablokować ten sam `Lock` kilka razy. W celu odblokowania należy go odblokować tyle samo razy co był zablokowany.
+## Przykład
 ```java
-ThreadPool threadPool = new ThreadPool(3, 10);
+public class CounterLock {
+	private long count = 0;
+	private Lock lock = new ReentreantLock();
+	public void inc(){
+		try {
+			lock.lock();
+			this.count++;
+		}
+		finally {
+			lock.unlock();
+		}
+	}
+
+}
 ```
-W tym przypadku tworzymy **3 wątki** i ustawiamy pojemność kolejki na **10 tasków**
-
-Następnie Dodajemy taski za pomocą metody `execute`:
+## Sprawiedliwość
+Podobnie jak `synchronized` `Lock` nie gwarantuje sprawiedliwości, tzn. że Kolejność w jakiej dany wątek otrzyma dostęp do `Lock` nie jest taka sama jak kolejność w której dany wątek doszedł do metody `lock`.
+### Zapewnienie sprawiedliwości
+W celu zapewnienia sprawiedliwości wystarczy dodać to konstruktora wartość `true`.
 ```java
-for(int i = 0; i < 10; i++) {
-	threadPool.execute( () -> {
-		System.out.println("Hello from task #" + i + " in Thread: " + Thread.currentThread().getName());
+private Lock lock = new ReentreantLock(true);
+```
+## Przerywanie oczekiwania na `Lock`
+Ponieważ czas w którym wątek oczekuje na metodę `lock()` może być długi można posłużyć się metodą `lockInterruptibly()` która w przypadku w którym watek otrzyma przerwanie `interrupt()` wyrzuci `InterruptedException`
+## `tryLock()`
+Ta metoda w przeciwieństwie do metody `lock()` w przypadku w którym inny wątek blokuje, zwraca fałsz. Można zdefiniować timeout, czyli czas po którym metoda się poddaje, w tym przypadku należy również obsłużyć `InterruptedException`
+### Przykład
+```java
+Lock lock = new ReentrantLock(true);
+try {
+	boolean lockStatus = lock.tryLock(3, TimeUnit.SECONDS);
+}
+catch(InterruptedException ex) {
+	ex.printStackTrace();
+}
+if(lockStatus) {
+	try {
+		// do stuff
+	}
+	finally {
+		lock.unlock();
+	}
+}
+else {
+	System.out.println("Failed to lock the lock");
+}
+```
+## Metody `ReentrantLock`
+
+| metoda                            | opis                                 |
+| --------------------------------- | ------------------------------------ |
+| `int getHoldCount()`              | Ile razy został zablokowany          |
+| `int queueLength()`               | Ile wątków oczekuje na zamek.        |
+| `boolean hasQueuedThread(Thread)` | czy dany wątek oczekuje w kolejce.   |
+| `boolean hasQueuedThreads()`      | czy jakieś wątki oczekują w kolejce. |
+| `boolean isFair()`                | czy jest sprawiedliwy.               |
+| `boolean isLocked()`              | czy jest zablkowowany.               |
+| `boolean isHeldByCurrentThread()` | czy aktualny wątek go wykonywuje.    |
+## `Lock` vs `synchronized`
+
+| właściwość                                              | `Lock` | `synchronized` |
+| ------------------------------------------------------- | ------ | -------------- |
+| Musi zawierać się w jednej metodzie?                    | NIE    | TAK            |
+| Musi być Reentrant?                                     | NIE    | TAK            |
+| Może gwarantować sprawiedliwość?                        | TAK    | NIE            |
+| Można ustawić timeout?                                  | TAK    | NIE            |
+| Czy można `interrupt` podczas oczekiwania na dostęp?    | TAK    | NIE            |
+| Wymaga używania `try`/`finally` podczas odblokowywania? | TAK    | NIE            |
+## DeadLock
+To jest problem który wstępuję w którym 1 wątek blokuje zamek 1, a 2 wątek 2.
+Następnie 1 wątek i 2 wątek próbują zablokować odpowiednio zamek 2 i 1. W tym przypadku oba wątki będą czekały w nieskończoność aż jeden z nich odblokuje zame.
+![[Pasted image 20240623162625.png]]
+# `ExecutorService`
+Pozwala na stworzenie kolejki `Runnable` które będą rozpoczynane po kolei przez przypisane wątki.
+## importy
+```java
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+```
+## Tworzenie
+```java
+ExecutorService executor = Executors.newFixedThreadPool(10);
+```
+Coś takiego stworzy $10$ wątków w których odbywać się będą `Runnable` taski.
+## Dodanie nowego taska
+### `execute()`
+```java
+for(int i = 0; i < 100; i++) {
+	executor.execute(new Runnable() {
+		@Override
+		public void run(){
+			String threadName = Thread.currentThread().getName();
+			for(int i2 = 0; i2 < 100; i2++) System.out.println(threadName + " 🗣️ " + i2);
+		}
 	});
 }
 ```
+### `submit()`
+Metoda ta działa podobnie, tylko zwraca obiekt typu `Future` na którym można:
+### Future
+#### Metoda `isDone()`
+metoda `isDone()`
+zwraca prawdę gdy `Runnable`/`Callable` zakończył działanie
+#### metoda `get()`
+czeka aż `Runnable`/`Callable` zakończy działanie, i zwraca zwróconą wartość. Należy obsłużyć `InterruptedException` oraz `ExecutionException`
+#### Metoda `cancel(mayInterrupt)`
+W przypadku w którym wykonywanie się jeszcze nie zaczęło, nie zacznie się ono nigdy.
+W przeciwnym przypadku jeśli jest `mayInterrupt = true` to przerwie działanie taska.
+W przypadku w którym nie uda się anulować, już wcześniej był anulowany lub ukończony, metoda zwróci `false`. 
+Po wywołaniu `isDone()` będzie zawsze zwracało prawdę. Jeżeli metoda `cancel` zwróciła prawdę to metoda `isCancelled()` również zwróci parwdę. 
 
-Czekamy aż wszystkie taski się zakończą i zatrzymujemy `threadPool`
-```java
-threadPool.waitUntilAllTasksAreFinished();
-threadPool.stop();
-```
 
-## Przykład
+## Metoda `invokeAny((Collection) callables)`
+Bierze i wykonuje wszystkie Callable i zwraca wynik pierwszego który zakończył. Należy obsłużyć wyjątki.
+Zwraca wartość zwracaną przez obiekty Kolekcji.
+
+## Metoda `invokeAll((Collection) callables)`
+Zwraca kolekcje wszystkich wyników.
+Wartość zwrócona to `List<Future<...>>`
+## Zakończenie
+
+Metoda `shutdown` blokuje możliwość dodawania nowych tasków do kolejki.
+Alternatywnie można użyć metody `shutdownNow()` która blokuje dodawanie nowych tasków i wysyła wszystkim aktualnym przerwania.
+Obie metody nie gwarantują zakończenia procesu.
+
 ```java
-public class Main{
-	public static void main(String[] args) {
-		ThreadPool threadPool = new ThreadPool(3, 10);
-		
-		for(int i = 0; i < 10; i++) {
-			threadPool.execute( () -> {
-				System.out.println("Hello from task #" + i + " in Thread: " + Thread.currentThread().getName());
-			});
-		}	
-	}
-}
+executor.shutdown();
 ```
+W tym przypadku stworzy i zakolejkuje $100$ `Runnable`,  najpierw przez $10$ wątków zostanie wykonane $10$ `Runnable`, po tym zostanie wykonane kolejne $10$ `Runnable`, i tak dalej aż dojdzie do końca. Metoda `shutdown` zakańcza serwis po ukończeniu wszystkich tasków.
+> [!WARNING] UWAGA
+> Metoda nie jest blokująca, aby czekać na zakończnie należy użyć `awaitTermination`
+
+### Oczekiwanie na zakończenie
+```java
+boolean awaitTermination(timeout, TimeUnit)
+```
+metoda czeka na zakończenie, przyjmuje czas oczekiwania oraz jednostkę czasu.
+W przypadku w którym metoda nie doczeka się zamknięcia zwraca `false` w przeciwnym wypadku `true`.
+Należy obsłużyć wyjątek `InterruptedException`.
+# Klasy/interfejsy
+## `BlockingQueue`
+Interfejs który jeżeli kolejka jest pusta, blokuje operacje zabierania.
+Jeżeli kolejka jest pełna to również blokuje dodawanie elementu.
+Używana jest typowo dla przypadku w którym jeden wątek produkuje a 2 konsumuje.
+
+Metody działające na pojedynczych elementach są wszystkie wątkowo bezpieczne. Metody grupowe nie są.
+
+### Implementacje
+#### `ArrayBlockingQueue`
+Elementy przechowywane są w tablicy.
+W konstruktorze podawany jest rozmiar.
+#### `LinkedBlockingQueue`
+Elementy są przechowywane w liście.
+#### `LinkedBlockingDequeue`
+ 
+#### `PriorityBlockingQueue`
+
+### Metody
+
+|             | **Throws Exception** | **Special Value** | **Blocks** | **Times Out**                 |
+| ----------- | -------------------- | ----------------- | ---------- | ----------------------------- |
+| **Insert**  | `add(o)`             | `offer(o)`        | `put(o)`   | `offer(o, timeout, timeunit)` |
+| **Remove**  | `remove(o)`          | `poll()`          | `take()`   | `poll(timeout, timeunit)`     |
+| **Examine** | `element()`          | `peek()`          |            |                               |
+
+#### `drainTo(Collection, (opcjonalnie) maxElementow)`
+Metoda pobiera elementy z kolejki do kolekcji.
+# Obiekty Atomiczne
+Obiekty atomiczne posiadają tylko metody atomiczne, czyli takie które mają tylko metody atomiczne, których nie można przepołowić.
