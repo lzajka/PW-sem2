@@ -184,6 +184,16 @@ W przypadku w którym jedna metoda zsynchronizowana będzie wywoływała inną m
 `synchronized` przy wejściu aktualizuje cache, przy wyjściu od razu zapisuje do głównej pamięci.
 > [!WARNING] UWAGA
 > Dane pobierane poza `synchronized` mogą być nadal przestarzałe.
-# ThreadLocal
+# `ThreadLocal<>`
+`ThreadLocal` przydziela każdemu wątkowi osobny obiekt.
+Posiada metody `set(...)`, `get()` i `remove()` 
 
+> [!WARNING] UWAGA
+> W `ThreadPool`u taski mogą używać tych samych wątków.
+> ![[Pasted image 20240623125222.png]]
+
+Można ustawić domyślną wartość początkową za pomocą `ThreadLocal.withInitial( () -> {return something;} )`
+## InheritableThreadLocal<>
+W przypadku gdy wątek tworzy wątek dziecko, ponieważ jest to inny wątek normalny `ThreadLocal` będzie traktował ten wątek jako osobny. W przypadku `InheritableThreadLocal` wątek dziecko odziedziczy wartość po rodzicu.
+Posiada nadpisywalną metodę `T childValue(T parentValue)` która ustawia domyślną wartość dziecka. Można np. zinkrementować zmienną głębokość.
 # Zmienne atomiczne
