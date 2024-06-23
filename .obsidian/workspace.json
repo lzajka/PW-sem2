@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md"
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md"
               }
             }
           },
@@ -186,9 +185,12 @@
   },
   "active": "27a30b07607c95ff",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/JIMP2 - egz/Collections.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Set.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
     "Pasted image 20240623162625.png",
     "Semestr 2/Opracowania/JIMP2 - egz/Podstawowe klasy.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Nieokreślona ilość argumentów.md",
     "Pasted image 20240623125222.png",
     "Semestr 2/Opracowania/JIMP2 - egz/Untitled.md",
@@ -211,8 +213,6 @@
     "Semestr 2/Opracowania/MPIS - kol 1/Ekstrema funkcji wielu zmiennych 1.md",
     "Semestr 2/Opracowania/MPIS - kol2 + egz/Twierdzenia graniczne.md",
     "Semestr 2/Opracowania/MPIS - kol2 + egz/Rozkład t-studenta.md",
-    "Semestr 2/Opracowania/MPIS - kol2 + egz/Hipotezy statystyczne.md",
-    "Semestr 2/Opracowania/MPIS - kol2 + egz/Elementy statystyki opisowej.md",
     "Semestr 2/Opracowania/MPIS - kol 1",
     "Pasted image 20240618233813.png",
     "Pasted image 20240618233549.png",
@@ -222,7 +222,6 @@
     "Pasted image 20240618232740.png",
     "Pasted image 20240618232523.png",
     "Pasted image 20240618232326.png",
-    "Pasted image 20240618232315.png",
     "Semestr 2/Opracowania/TOIS - egz",
     "Excalidraw",
     "Semestr 2/Wykłady/MPIS/15",
