@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md",
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md",
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md",
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md"
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "27a30b07607c95ff",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/JIMP2 - egz/Collections.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Collections.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Set.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
     "Pasted image 20240623162625.png",
