@@ -40,11 +40,7 @@ class Group implements Iterable<Student> {
 		return new Iterator<Student>() {
 			private int currentIndex = 0;
 			private int size = studentCount;
-			private Student[] students;
-			
-			{
-				students = Arrays.copyOf(Group.this.students, Group.this.students.length);
-			}
+			private Student[] students = Group.this.students;
 			
 			@Override
 			public boolean hasNext(){

@@ -16,7 +16,7 @@ indeks 0 wstawia ciąg znaków na początku.
 # Odwracanie stringa
 `reverse()`
 # substring
-Można zdobyć cześć stringu za pomocą metody `substring(a, b)` <a, b).
+Można zdobyć cześć stringu za pomocą metody `substring(a, b)` $[a, b)$.
 Metoda zwraca normalnego `String`a
 # Zastąpienie znaków
 Znaki można zastąpić za pomocą metody `replace(a, b, str)`. W przypadku w którym str jest większy niż zastępowane znaki, wstawia je.
@@ -24,9 +24,9 @@ Znaki można zastąpić za pomocą metody `replace(a, b, str)`. W przypadku w kt
 `StringBuilder` można prze-konwertować do zwykłego Stringu za pomocą metody `toString()`. 
 
 # Przykład użycia
-```
+```java
 StringBuilder sb = new StringBuilder("Edit me!");
-sb.append("sure bro.");
+sb.append("ok");
 // Wstaw spację po Edit me!
 sb.insert(8, " ");
 // Usuń literę d

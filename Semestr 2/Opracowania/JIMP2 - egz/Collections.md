@@ -1,10 +1,12 @@
+https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html
+Klasa zawierające statyczne metody do działań na kolekacjach.
 # Sortowanie
 Klasa `Collections` zawiera statyczną metodę `sort` biorącą jako argumenty: 
-- Lista
-- [[Comparator<T>]] (Chyba że elementy Listy są `Comparable`)
+- Listę
+- Obiekt typu [[Comparator<T>]] (Jeżeli elementy listy nie implementują interfejsu `Comparable`)
 Metoda domyślnie sortuje rosnąco. Aby odwrócić kolejność wystarczy odwrócić znak.
 # Wyszukiwanie binarne
-Klasa `Collections` zawiera statyczną metodę `binarySearch`.  Są 2 wersje:
+Klasa `Collections` zawiera statyczną metodę `binarySearch` wyszukującą klucz w liście.  Są 2 wersje:
 - `binarySearch(Lista, klucz)` elementy listy muszą implementować `Comparable`
 - `binarySerach(Lista, klucz, Comparator)`
 Oba metody zwracają indeks. W przypadku nieznalezienia to $-1$.
@@ -13,16 +15,21 @@ Oba metody zwracają indeks. W przypadku nieznalezienia to $-1$.
 > Lista musi być posortowana
 
 # Odwracanie kolejności
-Za pomocą metody statycznej `reverse(List)`
+Za pomocą metody statycznej `Collections.reverse(List)`
 # Losowa kolejność
-Za pomocą metody statycznej `shuffle(List, seed)` można zmienić kolejność na losową. seed jest opcjonalny.
+Za pomocą metody statycznej `Collections.shuffle(List, seed)` można zmienić kolejność na losową. seed jest opcjonalny.
 # Zamień 2 elementy
-`swap(List, a, b)`
+`Collections.swap(List, a, b)`
 # Wypełnij
-`fill(List, obj)`
+`Collections.fill(List, obj)`
 # Kopiuj
-`copy(dst, src)`
+`Collections.copy(dst, src)`
 # policz ile
-`frequency(List, szukane)` zwraca int
+`Collections.frequency(List, szukane)` zwraca int
 # Minimum i Maksimum
-2 podobne funkcje. Podobnie jak w przypadku sortowania i wyszukiwania binarnego Elementy Listy muszą implementować `Comparable`, w przeciwnym razie konieczne jest podanie w argumencie instancji klasy implementującej interfejs `Comparator`
+2 podobne funkcje. Podobnie jak w przypadku sortowania i wyszukiwania binarnego elementy Listy muszą implementować `Comparable`, w przeciwnym razie konieczne jest podanie w argumencie instancji klasy implementującej interfejs `Comparator`
+
+- `Collections.min(ListaObiektowComparable)`/ `Collections.min(Lista, ObiektComparator)`
+- `Collections.max(ListaObiektowComparable)`/ `Collections.max(Lista, ObiektComparator)`
+
+Powyższe metody zwracają **Obiekt** minimalny/maksymalny.

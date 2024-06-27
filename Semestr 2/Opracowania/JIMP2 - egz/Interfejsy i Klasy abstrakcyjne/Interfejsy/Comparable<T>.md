@@ -1,17 +1,17 @@
-Interfejs umożliwia porównywanie obiektów (mniejszy, większy lub równy). Umożliwia między innymi sortowanie elementów.
+Interfejs `Comparable` umożliwia porównywanie obiektów (mniejszy, większy lub równy). Umożliwia między innymi sortowanie elementów.
 # compareTo
 `int compareTo(T other)` metoda służy do porównywania elementów.
 `a.compareTo(b)` zwraca:
 
 | wartość | kiedy?  |
 | ------- | ------- |
-| -1      | $a < b$ |
-| 0       | $a=b$   |
-| 1       | $a > b$ |
+| $< 0$   | $a < b$ |
+| $=0$    | $a=b$   |
+| $>0$    | $a > b$ |
 
 # Przykład
 
-```
+```java
 class Player implements Comparable<Player> {
 	private points;
 	@Override

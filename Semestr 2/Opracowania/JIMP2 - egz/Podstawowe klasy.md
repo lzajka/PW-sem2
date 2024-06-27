@@ -1,3 +1,3 @@
 - [[StringBuilder]]
-- [[Collections]]
+- Collection
 - [[Random]]

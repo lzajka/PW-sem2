@@ -4,9 +4,25 @@ Każda klasa może mieć **tylko jedną** klasę abstrakcyjną jako rodzica.
 
 Ponieważ **Interfejsy** oraz **Klasy abstrakcyjne** nie są całkowicie zaimplementowane nie można bezpośrednio stworzyć ich instancji, konieczne jest najpierw zaimplementowanie ich.
 
+
 # Różnica
 Różnica polega na tym, że klasa abstrakcyjna może być częściowo zaimplementowana, a interfejs nie.
+# Polimorfizm
+Umożliwia nam traktowanie konkretnego obiektu jako obiekt wyżej w hiearchi. 
 
+```java
+Pet myPet = new Cat();
+
+myPet.pet();
+```
+
+W tym przypadku `Cat` jest podklasą `Pet`. Metody które zostały przesłonięte przez klasę `Cat` będą nadal przesłonięte w obiekcie `myPet`. W obiekcie `myPet` będę miał jedynie dostęp do metod i pól zdeklarowanych w `Pet`.
+
+## Późne wiązanie
+Jak widać w powyższym przykładzie to, że zmienna ma określony typ nie oznacza tego, że wiadomo jak zadziała dana metoda. Późne wiązanie oznacza to, że w czasie kompilacji kompilator nie przypisuje konkretnej sygnaturze metody (`typ nazwa(typy argumentów)`) konkretnego działania. W tym przypadku `myPet.pet()` jest przykładem późnego wiązania.
+
+## Wczesne wiązanie
+Jest wtedy kiedy w czasie kompilacji kompilator przypisuje danej sygnaturze metody działanie. 
 # Przykłady
 ## Klasa abstrakcyjna
 ```java
@@ -61,23 +77,7 @@ interface Follower {
 	public String joinPlayer();
 }
 ```
-
-```java
-class NPC {
-    int health;
-    public void dealDamage(int damage){
-        health -= damage;
-    }
-    
-    public NPC(int health) {class QuestGiver extends NPC implements Talkable, Follower {
-	// Konieczna jest implementacja wszystkich pozostalych klas
-}
-        this.health = health;
-    }
-    
-}
-```
-
+Klasa dziedzicząca
 ```java
 class QuestGiver extends NPC implements Talkable, Follower {
 	// Konieczna jest implementacja wszystkich pozostalych klas
