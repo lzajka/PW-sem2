@@ -120,3 +120,40 @@ $$
 H(s) =  \frac{Y_{21}}{Y_{11}}
 $$
 # Połączenia czwórnikowe
+## Szeregowe
+Tutaj warto impedancją
+![[Pasted image 20240626014128.png]]
+$$
+\mathbb{Z} = Z_{1} + Z_{2}
+$$
+## Równoległe
+Tutaj macierz admitacyjna
+![[Pasted image 20240626013224.png]]
+$$
+\mathbb{Y} = Y_{1} + Y_{2}
+$$
+## Szeregowo-równoległe
+Tutaj warto hybrydowym
+![[Pasted image 20240626014024.png]]
+$$
+\mathbb{H}=H_{1}+H_{2}
+$$
+## Równoległo-szeregowe
+Macierz odwrotna-hybrydowa
+![[Pasted image 20240626014336.png]]
+$$
+\mathbb{G} = G_{1} + G_{2}
+$$
+## Łańcuchowe
+![[Pasted image 20240626014451.png]]
+> [!WARNING] UWAGA
+> tutaj jest mnożenie, kolejność jest ważna
+
+$$
+\mathbb{A} = A_{1}*A_{2}
+$$
+# Podział czwórników
+## Pasywne
+Nie zawierają źródeł, są same elementy RLC.
+## Aktywne
+Mogę mieć źródło sterowane.
