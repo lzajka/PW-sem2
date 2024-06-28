@@ -372,8 +372,9 @@ Elementy są przechowywane w liście.
 
 #### `drainTo(Collection, (opcjonalnie) maxElementow)`
 Metoda pobiera elementy z kolejki do kolekcji.
-# Obiekty Atomiczne
-Obiekty atomiczne posiadają tylko metody atomiczne, czyli takie które mają tylko metody atomiczne, których nie można przepołowić.
+# Typy Atomiczne
+https://www.baeldung.com/java-atomic-variables
+Obiekty atomiczne posiadają metody atomiczne, których nie można przepołowić i są przystosowane do działania w wielu wątkach.
 # False Sharing
 Procesor cachuje zmienne współdzielone przez wątki, w postaci bloków które często są większe niż same zmienne. W przypadku zmiany wartości współdzielonych przez 2 wątki, zmienne obok mogą również zostać oznaczone jako zmienione, mimo że się tak nie stało, to wymusi odświeżenie nawet nie zmienionych zmiennych, to jest **False Sharing**. False Sharing może znacznie obniżyć wydajność.
 
