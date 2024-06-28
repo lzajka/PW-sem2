@@ -13,6 +13,46 @@ Ponieważ **Interfejsy** oraz **Klasy abstrakcyjne** niekoniecznie są całkowic
 
 # Różnica
 Różnica polega na tym, że klasa abstrakcyjna może być częściowo zaimplementowana, a interfejs nie. Klasa abstrakcyjna używa `abstract class`, interfejs `interface` a normalna klasa `class`.
+# Konstruktory
+Umożliwiają wykonanie określonych czynności na podstawie dostarczonych argumentów.
+W przypadku braku podania konstruktora Java tworzy konstruktor domyślny bez żadnych argumentów.
+
+> [!WARNING] UWAGA
+> Stworzenie dowolnego konstruktora oznacza to, że domyślny konstruktor nie przyjmujący żadnych argumentów nie zostanie utworzony. Aby nadal móc tworzyć obiekt bez podawania argumentów należy dodać własny konstruktor bez argumentów.
+
+Konstruktory można [[Przeciążenie i Przesłonięcie#Przesłonięcia|przesłaniać]] w celu wykonania innych działań w zależności od podanych argumentów.
+Konstruktory mogą być niepubliczne w celu ograniczenia dostępu do nich.
+## Przykład
+```java
+public class doSomething{
+	public doSomething(String doWhat){
+		System.out.println("I'm doing " + doWhat);
+	}
+
+}
+```
+
+```java
+public class Main {
+	public static void main(String[] args) {
+		doSomething ds1 = new doSomething("aaaa");
+		doSomething ds2 = new doSomething(); // coś takiego nie zadziała bo już nie ma domyślnego konstrutkra bez argumentów
+	}
+}
+```
+Aby `ds2` można było stworzyć należy dodać konstruktor bez argumentów. Może on nic nie robić.
+```java
+
+public class doSomething{
+	public doSomething(String doWhat){
+		System.out.println("I'm doing " + doWhat);
+	}
+	public doSomething(){
+	}
+
+}
+```
+
 # Dziedziczenie
 Klasy mogę dziedziczyć metody i pola (zmienne) po innych klasach lub interfejsach. Dziedziczone elementy można nadpisać, nazywa się to [[Przeciążenie i Przesłonięcie#Przesłonięcia|Przesłanianiem]].
 > [!WARNING] UWAGA
@@ -128,7 +168,7 @@ public class Main{
 ```java
 interface One{
 	public int one();
-}
+}Jak 
 
 interface Two{
 	public int two();
