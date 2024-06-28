@@ -1,1 +1,0 @@
-[[Klasy abstrakcyjne, interfejsy oraz polimorfizm]]

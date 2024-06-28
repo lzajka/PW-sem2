@@ -1,14 +1,24 @@
 **Interfejsy** oraz **klasy abstrakcyjne** umożliwiają tworzenie częściowo bądź w ogóle nie zaimplementowanych klas. 
 
-Każda klasa może mieć **tylko jedną** klasę abstrakcyjną jako rodzica.
+Interfejsy zawierają same [[Obiekty i Typy prymitywne#Podstawowe pojęcia|deklaracje]] metod, a wszystkie pola muszą być `public static final`.
 
-Ponieważ **Interfejsy** oraz **Klasy abstrakcyjne** nie są całkowicie zaimplementowane nie można bezpośrednio stworzyć ich instancji, konieczne jest najpierw zaimplementowanie ich.
+Klasy abstrakcyjne mogą zawierać niezaimplementowane metody `abstract`.
+
+Każda klasa może mieć **tylko jedną** klasę abstrakcyjną lub klasę jako rodzica.
+
+Ponieważ **Interfejsy** oraz **Klasy abstrakcyjne** niekoniecznie są całkowicie zaimplementowane nie można bezpośrednio stworzyć ich instancji, konieczne jest stworzenie normalnej klasy dziedziczącej po ich.
+
+
 
 
 # Różnica
-Różnica polega na tym, że klasa abstrakcyjna może być częściowo zaimplementowana, a interfejs nie.
+Różnica polega na tym, że klasa abstrakcyjna może być częściowo zaimplementowana, a interfejs nie. Klasa abstrakcyjna używa `abstract class`, interfejs `interface` a normalna klasa `class`.
+# Dziedziczenie
+Klasy mogę dziedziczyć metody i pola (zmienne) po innych klasach lub interfejsach. Dziedziczone elementy można nadpisać, nazywa się to [[Przeciążenie i Przesłonięcie#Przesłonięcia|Przesłanianiem]].
+> [!WARNING] UWAGA
+> Konstruktory nie są dziedziczone i nie można ich przesłonić. Aby w konstruktorze wykonać konstruktor klasy nadrzędnej należy na początku konstruktora użyć metody `super()`. Ta metoda może przyjmować takie same argumenty jak konstruktor klasy nadrzędnej.
 # Polimorfizm
-Umożliwia nam traktowanie konkretnego obiektu jako obiekt wyżej w hiearchi. 
+Umożliwia nam traktowanie konkretnego obiektu jako klasę wyżej w hierarchii. 
 
 ```java
 Pet myPet = new Cat();
@@ -21,6 +31,7 @@ W tym przypadku `Cat` jest podklasą `Pet`. Metody które zostały przesłonięt
 ## Późne wiązanie
 Jak widać w powyższym przykładzie to, że zmienna ma określony typ nie oznacza tego, że wiadomo jak zadziała dana metoda. Późne wiązanie oznacza to, że w czasie kompilacji kompilator nie przypisuje konkretnej sygnaturze metody (`typ nazwa(typy argumentów)`) konkretnego działania. W tym przypadku `myPet.pet()` jest przykładem późnego wiązania.
 
+Klasy dziedziczmy za pomocą `extends`, interfejsy za pomocą `implements`
 ## Wczesne wiązanie
 Jest wtedy kiedy w czasie kompilacji kompilator przypisuje danej sygnaturze metody działanie. 
 # Przykłady
@@ -31,6 +42,9 @@ abstract class Shape {
 	public abstract Double calculateArea();
 	public String getName() {
 		return this.name;
+	}
+	public Shape(){
+		System.out.println("Stworzono nowy kształt");
 	}
 }
 ```
@@ -51,7 +65,7 @@ class Square extends Shape {
 	}
 }
 ```
-Metoda `super()` wywołuje konstruktor rodzica (`extend`),  w tym przypadku wykorzystanie go nie jest konieczne.
+Metoda `super()` wywołuje konstruktor rodzica (`extend`).
 Otrzymany object `Square` można wykorzystywać jako `Shape`
 ```java
 public class Main{
@@ -77,7 +91,7 @@ interface Follower {
 	public String joinPlayer();
 }
 ```
-Klasa dziedzicząca
+## Klasa dziedzicząca
 ```java
 class QuestGiver extends NPC implements Talkable, Follower {
 	// Konieczna jest implementacja wszystkich pozostalych klas

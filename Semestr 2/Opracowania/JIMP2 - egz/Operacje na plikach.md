@@ -58,11 +58,21 @@ scanner.close();
 import java.io.File;
 import java.io.BufferedWriter;
 ```
+### Metody
 
+| Metoda                                  | zwracana wartość | opis                                                                                        |
+| --------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------- |
+| `write(znak)`                           | void             | Wpisuje pojedynczy znak                                                                     |
+| `write(String str)`                     | void             | Wpisuje kilka znaków (jeżeli chesz aby była nowa linia dodaj `\n` albo użyj metody newLine) |
+| `write(String str, int start, int end)` | void             | Pisze `end` znaków od znaku o indeksie `start`.                                             |
+| `close()`                               | void             | Zamyka plik                                                                                 |
+|                                         |                  |                                                                                             |
+Aby otworzyć BufferedWriter w konstruktorze podajemy obiekt typu `FileWriter`.
+Koniczne jest obsłużenie wyjątków `IOException`
 ### Przykład
 ```java
 try {
-	BufferedWriter writer = new BufferedWriter(new File("plik.txt", "w"));
+	BufferedWriter writer = new BufferedWriter(new FileWriter("plik.txt"));
 	writer.write("Hello");
 	writer.close(); 
 } 

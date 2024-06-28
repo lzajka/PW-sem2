@@ -452,3 +452,7 @@ W przypadku metody `notify` musi ona być wywołana w bloku `synchronized`
 > Wątek może obudzić się bez otrzymania sygnału.
 ## `notifyAll()`
 wybudza ona wszystkie wątki, działa podobnie do [[#`notify()`]]
+
+# Inne Klasy przystosowane do pracy wielowątkowej
+
+https://medium.com/javarevisited/java-collections-and-their-thread-safe-versions-9f715c26cace

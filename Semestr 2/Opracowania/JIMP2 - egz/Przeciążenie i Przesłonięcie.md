@@ -14,11 +14,12 @@ public class SaySomething{
 	public void saySomething(int number) {
 		System.out.println("The number is: " + number);
 	}
-
+	
+	
 }
 ```
 # Przesłonięcia
-Przesłonięcia umożliwiają zastąpienie bądź implementację metody klasy przodka bądź interfejsu. Przed metodą używamy adnotacji `@Override`.
+Przesłonięcia umożliwiają zastąpienie bądź implementację metody klasy przodka lub interfejsu. Przed metodą używamy adnotacji `@Override`. Konstruktora nie można przesłonić.
 ## Podstawowe przesłonięcia klasy Object
 Każda klasa dziedziczy z klasy Object. Domyślnie poniższe metody działają na podstawie adresu pamięci. W większości przypadków takie zastosowanie jest niepoprawne. Zaleca się więc odpowiednio przesłonić poniższe metody.
 ### hashCode
