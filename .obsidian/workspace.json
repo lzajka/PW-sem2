@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Przydane klasy.md",
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Klasy, interfejsy oraz polimorfizm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Przydane klasy.md",
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Klasy, interfejsy oraz polimorfizm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Przydane klasy.md",
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Klasy, interfejsy oraz polimorfizm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Przydane klasy.md"
+                "file": "Semestr 2/Opracowania/JIMP2 - egz/Klasy, interfejsy oraz polimorfizm.md"
               }
             }
           },
@@ -174,9 +174,17 @@
   "active": "c673df0b1a75ccfa",
   "lastOpenFiles": [
     "Semestr 2/Opracowania/JIMP2 - egz/Przeciążenie i Przesłonięcie.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Object.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Wyjątki.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/System.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/size vs lenght.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/StringBuilder.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Regex.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Random.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Przydatne importy.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Przydane klasy.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Operacje na plikach.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Object.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Obiekty i Typy prymitywne.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Nieokreślona ilość argumentów.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Klasy zagnieżdżone.md",
@@ -187,14 +195,6 @@
     "Semestr 2/Opracowania/JIMP2 - egz/Interfejsy i Klasy abstrakcyjne/Interfejsy/Map<T1, T2>.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Interfejsy i Klasy abstrakcyjne/Interfejsy/Iterable<T>.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Interfejsy i Klasy abstrakcyjne/Interfejsy/Comparable<T>.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Wyjątki.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/System.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/StringBuilder.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/size vs lenght.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Regex.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Random.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Przydatne importy.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Modyfikatory dostępu.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Interfejsy i Klasy abstrakcyjne/Interfejsy/Set<T>.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Interfejsy i Klasy abstrakcyjne/Interfejsy/Queue<T>.md",
