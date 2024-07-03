@@ -41,8 +41,14 @@ Jest ona proporcjonalna do wartości skutecznych prądu i napięcia. Jest ona il
 $$
 S = UI^*
 $$
-albo inaczej
+albo inaczej:
 $$
 S = P + jQ
 $$
+# Bilans mocy
+Zasada zachowania energii obowiązuje zawszę. W przypadku obwodów elektrycznych przyjmuje ona postać *prawa bilansu mocy*.
 
+Moc pozorna wytworzona przez wszystkie źródła $S_{g}$ **musi** być równa mocy pozornej wytworzonej na wszystkich odbiornikach $S_{o}$ .
+Tutaj przyjmowane jest że kierunki odbiorników i generatorów są przeciwne.
+W przypadku w którym są one takie same otrzymujemy
+$S_{o} + S_{g} = 0$
