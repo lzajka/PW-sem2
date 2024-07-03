@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Bloki inicjujące.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b17e564756d733f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Bloki inicjujące.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Bloki inicjujące.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/JIMP2 - egz/Bloki inicjujące.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md"
               }
             }
           },
@@ -173,10 +186,12 @@
   },
   "active": "c673df0b1a75ccfa",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+    "Semestr 2/Opracowania/JIMP2 - egz/Bloki inicjujące.md",
     "Semestr 2/Opracowania/JIMP2 - egz/zmienne statyczne.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Wyjątki.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Bloki inicjujące.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Statyczność.md",
     "Semestr 2/Opracowania/JIMP2 - egz/System.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Przeciążenie i Przesłonięcie.md",
@@ -197,8 +212,6 @@
     "Semestr 2/Opracowania/JIMP2 - egz/Collections.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Arrays.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Interfejsy i Klasy abstrakcyjne/Interfejsy/Map<T1, T2>.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Interfejsy i Klasy abstrakcyjne/Interfejsy/Iterable<T>.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Interfejsy i Klasy abstrakcyjne/Interfejsy/Comparable<T>.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Mapy.epub",
     "Pasted image 20240626014451.png",
     "Pasted image 20240626014336.png",
