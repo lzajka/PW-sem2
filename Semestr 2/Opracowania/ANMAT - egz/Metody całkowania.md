@@ -51,6 +51,6 @@ $$
 $$ lub 
 $\DeclareMathOperator{\arccot}{arccot}$
 $$
-\int \frac{2t}{124412}  dt 
+\int 
 $$
 
