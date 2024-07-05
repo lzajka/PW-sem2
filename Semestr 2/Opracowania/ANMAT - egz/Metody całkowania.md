@@ -44,3 +44,13 @@ Następnie liczymy $A$ i $B$, oraz podstawiamy do powyższych ułamków. Ułamki
 $$
 \frac{x + 3}{x^2 + 6x + 9} = \frac{A}{x+3} + \frac{B}{(x+3)^2}
 $$
+## Całkowanie funkcji wymiernych
+Jeżeli $\Delta < 0$ nie można użyć wcześniejszej metody. Zamiast jej można użyć jednego z następujących wzorów
+$$
+\int \frac{g'(x)}{g(x)}dx = \ln|g(x)| + C
+$$ lub 
+$\DeclareMathOperator{\arccot}{arccot}$
+$$
+\int \frac{2t}{124412}  dt 
+$$
+
