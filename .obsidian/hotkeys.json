@@ -1,4 +1,12 @@
 {
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "="
+    }
+  ],
   "editor:insert-mathblock": [
     {
       "modifiers": [
@@ -7,12 +15,12 @@
       "key": "="
     }
   ],
-  "editor:toggle-inline-math": [
+  "markdown:add-alias": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
-      "key": "="
+      "key": "-"
     }
   ]
 }

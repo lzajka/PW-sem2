@@ -1,3 +1,4 @@
+#Całki #AnalizaMatematyczna
 # Podstawowe wzory
 
 $$

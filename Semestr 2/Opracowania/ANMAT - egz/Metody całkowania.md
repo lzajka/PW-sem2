@@ -1,3 +1,4 @@
+#Całki #AnalizaMatematyczna
 # Całkowanie przez części
 Jeżeli funkcje mają ciągłe pochodne, to:
 $$

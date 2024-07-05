@@ -1,0 +1,1 @@
+Szereg posaci
