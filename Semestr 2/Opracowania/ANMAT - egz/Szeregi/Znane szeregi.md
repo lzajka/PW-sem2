@@ -23,7 +23,7 @@ Szereg takiej postaci:
 - Jest **zbieżny** dla $\alpha > 1$
 - Jest **rozbieżny** dla $\alpha \leq 1$
 
-# Szereg potęgowy
+
 # Szereg geometryczny
 Szereg geometryczny to taki szereg, który jest sumą wyrazów [[Ciąg geometryczny|ciągu geometrycznego]].
 Ogólnie to można go zapisać w takiej postaci.
@@ -51,4 +51,16 @@ oraz $x_{0}$ jest to środek szeregu.
 ## Obszar zbieżności
 Polega na znalezieniu wartości $x$ dla której szereg jest zbieżny.
 Szereg zawsze jest zbieżny w przypadku w którym $x = x_{0}$.
+
+1. Najpierw wyliczamy $\lambda$. Mamy 2 opcje: $\lambda =\lim_{ n \to \infty } |\frac{a_{n+1}}{a_{n}}|$ lub $\lambda = \lim_{ n \to \infty } \sqrt[n]{ |a_{n}| }$
+2. Następnie w zależności od wartości $\lambda$ wybieramy promień/obszar.$$
+   R = \begin{cases}
+\frac{1}{\lambda}, \lambda \neq 0 \\
+0, \lambda = \infty \\
++\infty, \lambda = 0 \\
+\end{cases}
+$$
+3. Następnie podstawiamy do $(x_{0} - R, x_{0} + R)$ 
 ## Zbieżność na krańcach
+Powyżej pokazałem jak obliczyć obszar zbieżności. Wiemy że $x$ może być wartością z przedziału $(x_{0} - R, x_{0} + R)$.
+**Nie wiemy** natomiast czy w dla $x$ w punktach $x_{0} - R$ oraz $x_{0} + R$  nazywanych krańcami zachodzi zbieżność. W tym przypadku należy podstawić pod $x$ te wartości, a następnie stosując metody sprawdzić, czy dla takiego $x$ zachodzi zbieżność. 
