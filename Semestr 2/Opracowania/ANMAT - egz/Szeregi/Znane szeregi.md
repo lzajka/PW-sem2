@@ -41,6 +41,9 @@ Jest to szereg postaci:
 $$
 \sum_{n = 1}^\infty a_{n}(x - x_{0})^n
 $$
-gdzie, $a_{n} \neq 0$ dla $n \in \mathbb{N}$, oraz $x_{0}$ jest to środek szeregu.
+gdzie, $a_{n} \neq 0$ dla $n \in \mathbb{N}$, $x \in \mathbb{R}$
+oraz $x_{0}$ jest to środek szeregu.
 ## Obszar zbieżności
+Polega na znalezieniu wartości $x$ dla której szereg jest zbieżny.
+Szereg zawsze jest zbieżny w przypadku w którym $x = x_{0}$.
 ## Zbieżność na krańcach
