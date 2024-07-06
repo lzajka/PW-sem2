@@ -1,5 +1,8 @@
 #Granice #Szeregi #AnalizaMatematyczna #ZbieżnośćSzeregu
 Kryteria zbieżności pomagają w określeniu czy dany szereg jest zbieżny, czy rozbieżny.
+
+> [!WARNING] UWAGA
+> W większości przypadków (prawie) wszystkie elementy ciągów są nieujemne.
 # Warunek konieczny
 Warunkiem koniecznym zbieżności szeregu jest taki że dla szeregu:
 $$
@@ -39,4 +42,10 @@ Kryterium Leibniza jest przydatne w przypadku szeregów naprzemiennych (takich �
 $$
 \sum_{n = 1}^\infty (-1)^{n+1} a_{n}
 $$
-Twierdzenie mówi, że jeśli ciąg $a_{n}$ jest **nierosnący** i zbieżny do $0$, to szereg jest zbieżny. 
+Twierdzenie mówi, że jeśli ciąg $a_{n}$ jest **nierosnący** i zbieżny do $0$, to szereg jest zbieżny.
+
+# Kryterium ???
+Jeżeli ciąg $\sum_{n = 1}^\infty |a_{n}|$ jest zbieżny, to ciąg $\sum_{n = 1}^\infty a_{n}$ też jest zbieżny.
+
+> [!NOTE] To chyba wszędzie obowiązuje
+> Było w Innych zależnościach, pod szeregami Dirichleta, ale to chyba obowiązuje dla wszystkich szeregów.
