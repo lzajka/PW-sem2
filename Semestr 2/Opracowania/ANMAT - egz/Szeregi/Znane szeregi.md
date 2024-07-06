@@ -10,6 +10,10 @@ Szereg harmoniczny jest szeregiem rozbieżnym.
 ## Zastosowanie
 Szereg harmoniczny znajduje często w sprawdzaniu zbieżności innych szeregów za pomocą [[Kryteria zbieżności#Kryterium porównawcze|kryteria porównawczego]] 
 # Szereg anharmoniczny
+To jakby połączenie szeregu harmonicznego oraz szeregu naprzemiennego.
+$$
+\sum_{n = 1}^\infty \frac{1}{n} (-1)^{n+1}
+$$
 # Szeregi Dirichleta
 Dowolny szereg postaci
 $$

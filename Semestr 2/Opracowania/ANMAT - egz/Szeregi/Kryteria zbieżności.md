@@ -43,6 +43,5 @@ $$
 \sum_{n = 1}^\infty (-1)^{n+1} a_{n}
 $$
 Twierdzenie mówi, że jeśli ciąg $a_{n}$ jest **nierosnący** i zbieżny do $0$, to szereg jest zbieżny.
-
 # Zbieżność bezwzględna
-Jeżeli ciąg $\sum_{n = 1}^\infty |a_{n}|$ jest zbieżny, to ciąg $\sum_{n = 1}^\infty a_{n}$ też jest zbieżny.
+![[Zbieżność warunkowa i bezwzględna#Zbieżność bezwzględna]]

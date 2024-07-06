@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Untitled.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Untitled.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Untitled.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Untitled.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md"
               }
             }
           },
@@ -186,16 +186,17 @@
   },
   "active": "c673df0b1a75ccfa",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność warunkowa i bezwzględna.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Untitled.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność bezwarunkowa.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Szereg geometryczny.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
     "Semestr 2/Opracowania/ANMAT - egz/Untitled.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki",
     "Semestr 2/Opracowania/ANMAT - egz/Granice",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Szereg Harmoniczny.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi",
@@ -215,7 +216,6 @@
     "Semestr 2/Opracowania/JIMP2 - egz/Klasy, interfejsy oraz polimorfizm.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Object.md",
     "Semestr 2/Opracowania/JIMP2 - egz/size vs lenght.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/StringBuilder.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Mapy.epub",
     "Pasted image 20240626014451.png",
     "Pasted image 20240626014336.png",
