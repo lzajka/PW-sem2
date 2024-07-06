@@ -44,8 +44,5 @@ $$
 $$
 Twierdzenie mówi, że jeśli ciąg $a_{n}$ jest **nierosnący** i zbieżny do $0$, to szereg jest zbieżny.
 
-# Kryterium ???
+# Zbieżność bezwzględna
 Jeżeli ciąg $\sum_{n = 1}^\infty |a_{n}|$ jest zbieżny, to ciąg $\sum_{n = 1}^\infty a_{n}$ też jest zbieżny.
-
-> [!NOTE] To chyba wszędzie obowiązuje
-> Było w Innych zależnościach, pod szeregami Dirichleta, ale to chyba obowiązuje dla wszystkich szeregów.

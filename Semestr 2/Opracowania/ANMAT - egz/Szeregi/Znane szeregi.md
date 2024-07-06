@@ -9,6 +9,7 @@ $$
 Szereg harmoniczny jest szeregiem rozbieżnym.
 ## Zastosowanie
 Szereg harmoniczny znajduje często w sprawdzaniu zbieżności innych szeregów za pomocą [[Kryteria zbieżności#Kryterium porównawcze|kryteria porównawczego]] 
+# Szereg anharmoniczny
 # Szeregi Dirichleta
 Dowolny szereg postaci
 $$
