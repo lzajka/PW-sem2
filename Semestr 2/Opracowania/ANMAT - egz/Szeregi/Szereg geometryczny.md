@@ -1,4 +1,4 @@
-#AnalizaMatematyczna #Szeregi #SzeregGeometryczny #CiągGeometryczny
+#AnalizaMatematyczna #Szeregi #SzeregGeometryczny #CiągGeometryczny #ZbieżnośćSzeregu
 
 
 Szereg geometryczny to taki szereg, który jest sumą wyrazów [[Ciąg geometryczny|ciągu geometrycznego]].
@@ -17,5 +17,3 @@ Spełnienie tego warunku konieczne jest do obliczenia wartości szeregu.
 $$
 \sum_{n = 1}^\infty a_{n_{1}} q^{n-1} = \frac{a_{1}}{1 - q}
 $$
-# Popularne szeregi geometryczne
-## Szereg

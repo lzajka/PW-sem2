@@ -1,4 +1,4 @@
-#Granice #Szeregi #AnalizaMatematyczna 
+#Granice #Szeregi #AnalizaMatematyczna #ZbieżnośćSzeregu
 Kryteria zbieżności pomagają w określeniu czy dany szereg jest zbieżny, czy rozbieżny.
 # Warunek konieczny
 Warunkiem koniecznym zbieżności szeregu jest taki że dla szeregu:
@@ -16,9 +16,27 @@ Jeżeli od pewnego $n$ : $a_{n} > 0$ oraz $\lim_{ n \to \infty } \sqrt[n]{ a_{n}
 - $q < 1$: szereg jest zbieżny
 - $q > 1$: szereg jest rozbieżny
 - $q = 1$: zła metoda
+## Rozszerzenie kryterium Cauchy'ego
+Jeżeli od pewnego momentu $q \geq 1$ to szereg jest rozbieżny. 
 # Kryterium (silne) d'Alamberta
 $$
-g = \lim_{ n \to \infty } | \frac{a_{n+1}}{a_{n}} | 
+q = \lim_{ n \to \infty } | \frac{a_{n+1}}{a_{n}} | 
 $$
-- dla $g < 1$  - Szereg jest zbieżnych
-- dla $g > 1$ -  Szereg jest rozbieżny
+- dla $q < 1$ - Szereg jest zbieżnych
+- dla $q > 1$ - Szereg jest rozbieżny
+- dla $q=1$ - Zła metoda 
+## Rozszerzenie kryterium d'Alamberta
+Jeżeli od pewnego momentu $q \geq 1$ to szereg jest rozbieżny.
+# Kryterium ilorazowe
+$$
+g = \lim_{ n \to \infty } \frac{a_{n}}{b_{n}}
+$$
+- Jeżeli $0 < q < \infty$ oba szeregi są zarówno zbieżne lub rozbieżne
+- Jeżeli $q = 0$ ze zbieżności $b_{n}$ wynika zbieżność $a_{n}$ i na odwrót
+- Jeżeli $q = \infty$ z rozbieżności $b_{n}$ wynika rozbieżność $a_{n}$ i n a odwrót
+# Kryterium Leibniza
+Kryterium Leibniza jest przydatne w przypadku szeregów naprzemiennych (takich że znak zmienia się dla każdego elementu ciągu. Szereg naprzemienny zapisuje się w następującej postaci.
+$$
+\sum_{n = 1}^\infty (-1)^{n+1} a_{n}
+$$
+Twierdzenie mówi, że jeśli ciąg $a_{n}$ jest **nierosnący** i zbieżny do $0$, to szereg jest zbieżny. 
