@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md"
               }
             }
           },
@@ -159,6 +159,11 @@
   },
   "active": "20b8cb1092fb4432",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
@@ -178,17 +183,12 @@
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
     "Semestr 2/Opracowania/TOIS - egz/Zmienne stanu.md",
     "Semestr 2/Opracowania/TOIS - egz/Wymuszenia odkształcone.md",
-    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Bloki inicjujące.md",
     "Semestr 2/Opracowania/JIMP2 - egz/zmienne statyczne.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Wyjątki.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Statyczność.md",
     "Semestr 2/Opracowania/JIMP2 - egz/System.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Przeciążenie i Przesłonięcie.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Modyfikatory dostępu.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Klasy, interfejsy oraz polimorfizm.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Object.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Mapy.epub",
     "Pasted image 20240626014451.png",
     "Pasted image 20240626014336.png",
