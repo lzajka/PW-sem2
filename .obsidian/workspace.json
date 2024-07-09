@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md"
               }
             }
           },
@@ -157,8 +157,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "20b8cb1092fb4432",
+  "active": "51f96a8e4ff7dd33",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-09 20.31.23.excalidraw.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+    "Semestr 2/Opracowania/ANMAT - egz/TODO.md",
+    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
@@ -171,8 +176,6 @@
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność warunkowa i bezwzględna.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność bezwarunkowa.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Szereg geometryczny.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Untitled.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki",
     "Semestr 2/Opracowania/ANMAT - egz/Granice",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Szereg Harmoniczny.md",
@@ -180,15 +183,12 @@
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi",
     "Semestr 2/Opracowania/ANMAT - egz",
-    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
     "Semestr 2/Opracowania/TOIS - egz/Zmienne stanu.md",
     "Semestr 2/Opracowania/TOIS - egz/Wymuszenia odkształcone.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Bloki inicjujące.md",
     "Semestr 2/Opracowania/JIMP2 - egz/zmienne statyczne.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Wyjątki.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Statyczność.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/System.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Mapy.epub",
     "Pasted image 20240626014451.png",
     "Pasted image 20240626014336.png",
