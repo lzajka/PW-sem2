@@ -1,4 +1,4 @@
-Umożliwia na łatwe obliczenie napięć i natężeń na jednej gałęzi.
+Umożliwia na łatwe obliczenie napięć i natężeń na **jednej** gałęzi.
 # Schemat
 1. Przejdź na wartość skuteczną zespoloną
 2. Odetnij gałąź (AB) dla której wartości szukamy

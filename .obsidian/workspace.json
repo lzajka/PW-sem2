@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md"
               }
             }
           },
@@ -157,10 +157,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "51f96a8e4ff7dd33",
+  "active": "20b8cb1092fb4432",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-09 20.31.23.excalidraw.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
+    "Excalidraw/Drawing 2024-07-09 20.31.23.excalidraw.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
     "Semestr 2/Opracowania/ANMAT - egz/TODO.md",
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
