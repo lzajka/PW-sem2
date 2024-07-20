@@ -26,4 +26,30 @@ $$
 \lim_{ x \to \infty } \frac{\cancel x}{ \cancel x} = \lim_{ x \to \infty } \frac{1}{1} = 1
 $$
 ## Metoda de L'Hospitala
-Regułę tą stosuje się do obliczania granic wyrażeń nieoznaczonych.
+Regułę tą stosuje się do obliczania granic wyrażeń nieoznaczonych typu $[\frac{0}{0}]$ oraz $[\frac{\infty}{\infty}]$.
+Takie wyrażenie dzielimy na 2 funkcje: licznika - $f(x)$, oraz mianownika - $g(x)$.
+
+Następnie, jeżeli:
+$$
+\begin{flalign*}
+\lim_{ x \to \infty } f(x) = 0 && \text{oraz} &&
+\lim_{ x \to \infty } g(x) = 0
+\end{flalign*}
+$$
+lub
+$$
+\begin{flalign*}
+\lim_{ x \to \infty } f(x) = \infty &&
+\text{oraz} &&
+\lim_{ x \to \infty } g(x) = \infty
+\end{flalign*}
+$$
+
+To, wtedy
+$$
+\lim_{ x \to a } \frac{f(x)}{g(x)} = \lim_{ x \to a } \frac{f'(x)}{g'(x)}
+$$
+> [!WARNING] Równość zachodzi dodatkowo pod warunkiem, jeżeli równość po prawej stronie istnieje.
+
+> [!NOTE] Można zastosować do wyrażeń typu $[0 *\infty]$
+> Ponieważ
