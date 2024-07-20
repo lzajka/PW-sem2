@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md"
               }
             }
           },
@@ -159,12 +159,13 @@
   },
   "active": "20b8cb1092fb4432",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
     "Excalidraw/Drawing 2024-07-09 20.31.23.excalidraw.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
     "Semestr 2/Opracowania/ANMAT - egz/TODO.md",
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
@@ -188,7 +189,6 @@
     "Semestr 2/Opracowania/JIMP2 - egz/Bloki inicjujące.md",
     "Semestr 2/Opracowania/JIMP2 - egz/zmienne statyczne.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Wyjątki.md",
-    "Semestr 2/Opracowania/JIMP2 - egz/Wielowątkowość.md",
     "Semestr 2/Opracowania/JIMP2 - egz/Mapy.epub",
     "Pasted image 20240626014451.png",
     "Pasted image 20240626014336.png",
