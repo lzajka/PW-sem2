@@ -25,7 +25,7 @@ Otrzymaliśmy właśnie symbol nieoznaczony, w tym przypadku łatwo możemy rozw
 $$
 \lim_{ x \to \infty } \frac{\cancel x}{ \cancel x} = \lim_{ x \to \infty } \frac{1}{1} = 1
 $$
-## Metoda de L'Hospitala
+## Metoda de L'Hospitala ($\left[ \frac{0}{0} \right], [\frac{\infty}{\infty}]$)
 Regułę tą stosuje się do obliczania granic wyrażeń nieoznaczonych typu $[\frac{0}{0}]$ oraz $[\frac{\infty}{\infty}]$.
 Takie wyrażenie dzielimy na 2 funkcje: licznika - $f(x)$, oraz mianownika - $g(x)$.
 
@@ -51,5 +51,9 @@ $$
 $$
 > [!WARNING] Równość zachodzi dodatkowo pod warunkiem, jeżeli równość po prawej stronie istnieje.
 
-> [!NOTE] Można zastosować do wyrażeń typu $[0 *\infty]$
-> Ponieważ
+### Uproszczenie i zastosowanie metody de L'Hospitala ($[0 * \infty]$)
+Ponieważ $\infty$ to $\frac{1}{0}$ można to zapisać jako $0 * \frac{1}{0}$, czyli $\frac{0}{0}$. Następnie takie równanie można rozwiązać za pomocą *metody de L'Hospitala*
+
+### Uproszczenie i zastosowanie metody de L'Hospitala ($\left[ \infty - \infty \right]$)
+W tym przypadku ponieważ nieskończoność to czasami $\frac{a}{0}$ oraz $\frac{b}{0}$ można wziąć równanie do wspólnego mianownika.
+Następnie na otrzymanym ułamku zastosować *metodę de L'Hospitala*
