@@ -7,5 +7,5 @@ V = \pi \int_{a}^b [f(x)^2] dx
 $$
 ## Pole powierzchni bocznej
 $$
-S_{b} = 2\pi \int_{a}^b f(x) 
+S_{b} = 2\pi \int_{a}^b f(x) \sqrt{ 1 - [f'(x)^2] } dx
 $$
