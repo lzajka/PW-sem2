@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Moce.md"
               }
             }
           },
@@ -168,13 +168,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "046692f30caabff6",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Twierdzenie o 3 ciągach..md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
@@ -185,21 +191,16 @@
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Własności.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Interpretacja geometryczna pochodnej.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
     "Semestr 2/Opracowania/ANMAT - egz/TODO.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Pochodne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
     "Excalidraw/Drawing 2024-07-09 20.31.23.excalidraw.md",
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
-    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
     "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
-    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki",
     "Semestr 2/Opracowania/ANMAT - egz/Granice",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi",
