@@ -1,5 +1,9 @@
 #AnalizaMatematyczna #Pochodne #Wzory
 $$
+\DeclareMathOperator{\arccot}{arccot}
+$$
+
+$$
 (a^x)' = \ln (a) * a^{x}, a > 0
 $$
 $$
