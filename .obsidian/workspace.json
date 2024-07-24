@@ -19,6 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b70f5e781241a76",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Metoda prądów oczkowych 2024-07-24 18.01.48.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -160,10 +170,11 @@
   },
   "active": "046692f30caabff6",
   "lastOpenFiles": [
+    "Excalidraw/Metoda prądów oczkowych 2024-07-24 18.01.48.excalidraw.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Excalidraw/Drawing 2024-07-09 20.31.23.excalidraw.md",
     "Excalidraw/Metoda prądów oczkowych 2024-06-16 22.29.33.excalidraw.md",
     "Excalidraw/Metoda Operatorowa 2024-06-24 19.48.50.excalidraw.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md",
     "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
@@ -185,7 +196,6 @@
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność warunkowa i bezwzględna.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Własności.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Interpretacja geometryczna pochodnej.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",
     "Semestr 2/Opracowania/ANMAT - egz/Całki",
     "Semestr 2/Opracowania/ANMAT - egz/Granice",
