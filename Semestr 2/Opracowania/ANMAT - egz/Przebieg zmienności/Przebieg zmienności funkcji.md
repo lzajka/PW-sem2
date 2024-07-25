@@ -1,4 +1,4 @@
-#AnalizaMatematyczna #Monotoniczność #Granice
+#AnalizaMatematyczna #Monotoniczność #Granice #Asymptoty
 # Monotoniczność
 *Monotoniczność* opisuje nam czy funkcja rośnie, czy maleje. Możemy wyznaczać za pomocą pochodnych. Jeżeli pochodna funkcji $f(x)$ na danym przedziale jest ciągła oraz:
 - Ujemna - Funkcja jest malejąca.
@@ -35,3 +35,22 @@ $$
 \lim_{ x \to 1^+ } f(x) = +\infty 
 $$
 Ponieważ funkcja dla punktu $1$ posiada zarówno asymptotę prawostronną, i lewostronną jest ona w punkcie $1$ obustronna.
+
+## Asymptota pozioma
+Liczymy 2 granice:
+$$
+\lim_{ x \to \infty } f(x) = a
+$$
+$$
+\lim_{ x \to -\infty } f(x) = a 
+$$
+ważne, żeby $a \neq \pm\infty$. Asymptota również może być jednostronna lub obustronna.
+## Asymptota ukośna
+$$
+a = \lim_{ x \to \pm\infty } \frac{f(x)}{x}
+$$
+> [!NOTE] Asymptota pozioma to szczególny przypadek asymptoty ukośnej. $a = 0$
+
+$$
+b = \lim_{ x \to \pm\infty } f(x) - ax 
+$$
