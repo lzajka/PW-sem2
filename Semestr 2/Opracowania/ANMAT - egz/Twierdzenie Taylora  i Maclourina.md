@@ -3,7 +3,7 @@
 W celu przybliżenia wartości funkcji trudnych do obliczenia można wykorzystać twierdzenie Taylora.
 Mówi ono, że można zbliżyć taką funkcję do wielomianu $n$-tego stopnia. Tym większy stopień wielomianu, tym większa precyzja.
 # Założenia
-Funkcja ($n - 1$) różniczkowalna na jakimś przedziale.
+Funkcja ($n + 1$) różniczkowalna na jakimś przedziale.
 
 # Wzór Taylora
 $$
