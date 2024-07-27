@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora.md"
               }
             }
           },
@@ -170,9 +170,12 @@
   },
   "active": "046692f30caabff6",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Funkcje/Definicje.md",
+    "Excalidraw/Drawing 2024-07-27 18.44.30.excalidraw.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji.md",
     "Semestr 2/Opracowania/ANMAT - egz/funkcji ciągłej.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora.md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
@@ -198,8 +201,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów.md",
     "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
-    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
-    "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",
     "Semestr 2/Opracowania/ANMAT - egz/Całki",
     "Semestr 2/Opracowania/ANMAT - egz/Granice",
@@ -215,7 +216,6 @@
     "Pasted image 20240623162625.png",
     "Pasted image 20240623125222.png",
     "Semestr 2/Opracowania/MPIS - kol 1",
-    "Semestr 2/Opracowania/TOIS - egz",
-    "Excalidraw"
+    "Semestr 2/Opracowania/TOIS - egz"
   ]
 }

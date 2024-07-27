@@ -1,0 +1,1 @@
+#AnalizaMatematyczna #TwierdzenieTaylora #Funkcje #

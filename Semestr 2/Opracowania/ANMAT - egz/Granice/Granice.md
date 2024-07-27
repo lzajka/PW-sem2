@@ -11,4 +11,3 @@ $$
 # Definicja Couchy'ego
 > [!TLDR]
 > Jeżeli dobierzesz $x$ bardzo bliskiego $x_{0}$ to otrzymasz bardzo bliską wartość do granicy $g$
-# Twierdzenie 1
