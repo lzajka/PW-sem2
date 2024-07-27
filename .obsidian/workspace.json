@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5
+    "width": 586.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +169,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "046692f30caabff6",
+  "active": "32c95ddd445b24d5",
   "lastOpenFiles": [
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
