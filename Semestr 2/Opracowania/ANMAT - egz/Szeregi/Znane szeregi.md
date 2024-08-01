@@ -31,7 +31,7 @@ $$
 \sum_{n=1}^\infty a_{1}q^{n-1}
 $$
 ## Wartość sumy $n$-elementowej
-Dla $q \neq 1$: $S_{n} = \frac{1 - q^n}{1 - q}$
+Dla $q \neq 1$: $S_{n} = a_{1} * \frac{1 - q^n}{1 - q}$
 Dla $q = 1$: $S_{n} = na$ (wartości ciągu są takie same.)
 
 ## Warunek zbieżności szeregu geometrycznego.
