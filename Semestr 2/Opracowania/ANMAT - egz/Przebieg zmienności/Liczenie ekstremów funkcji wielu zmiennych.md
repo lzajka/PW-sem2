@@ -21,15 +21,46 @@ H(P) = \begin{bmatrix}
 \end{bmatrix}
 
 $$
+## Minory główne
+Minory główne $A_{n}$ są to wyznaczniki fragmentu macierzy Hessego o wymiarach $n \times n$ rozpoczynając od lewego górnego rogu
+### Przykład
+$$
+A_{1}(P) = \frac{ \partial ^2 f }{ \partial x_{1} \partial x_{1} } 
+$$
+$$
+A_{2}(P) = \begin{vmatrix}
+\frac{ \partial^2 f}{ \partial x_{1} \partial x_{1}}(P) & \frac{ \partial^2 f }{ \partial x_{1} \partial x_{2} }(P)   \\
+\frac{ \partial ^2f }{ \partial x_{2} \partial x_{1} }(P)  & \frac{ \partial ^2 f }{ \partial x_{2} \partial x_{2} }(P)   \\
 
+\end{vmatrix}
+$$
+$$
+A_{3}(P) = \begin{vmatrix}
+\frac{ \partial^2 f}{ \partial x_{1} \partial x_{1}}(P) & \frac{ \partial^2 f }{ \partial x_{1} \partial x_{2} }(P) & \frac{ \partial ^2 f }{ \partial x_{1} \partial x_{3} }(P) \\
+\frac{ \partial ^2f }{ \partial x_{2} \partial x_{1} }(P)  & \frac{ \partial ^2 f }{ \partial x_{2} \partial x_{2} }(P)  & \frac{ \partial ^2 f }{ \partial x_{2} \partial x_{3} }(P) \\
+\frac{ \partial ^2 f }{ \partial x_{3} \partial x_{1} }(P) & \frac{ \partial ^2 f }{ \partial x_{3} \partial x_{2} }(P)  & \frac{ \partial ^2 f }{ \partial x_{3} \partial x_{3} }(P)
+\end{vmatrix}
+$$
+
+## Określoność
+1. Gdy wszystkie minory główne są dodatnie - **Minimum lokalne**
+2. Gdy wszystkie minory główne zmieniają znak, zaczynając od minusa - **Maksimum lokalne**
+3. Jeżeli $A_{2}(P) = 0$ - **Nie wiadomo**
+4. Jeżeli $A_{2}(P) < 0$ - **Macierz nieokreślona**
 # Warunek dostateczny istnienia ekstremum (2 zmienne)
 Jeżeli:
 - Funkcja jest klasy $C^2$ na pewnym otoczeniu punktu $P$ (pochodna cząstkowa 2 rzędu jest ciągła)
-- $f'_{x}(P) = f'_{y}(P) = 0$
+- $f'_{x}(P) = f'_{y}(P) = 0$ ([[#Warunek konieczny istnienia ekstremów]])
 - $\det(H) > 0$
-To w punkcie P ma:
-- Minimum    jeżeli $f''_{xx}(P) > 0$ oraz $f''_{yy}(P) > 0$
-- Maksimum jeżeli $f''_{xx}(P) < 0$ oraz $f''_{yy}(P) < 0$
+To w punkcie $P$ mamy *ekstremum lokalne*.
+Jeżeli:
+- $f''_{xx}(P) > 0$ - **Minimum lokalne**
+- $f''_{xx}(P) < 0$ - **Maksimum lokalne**
 
 > [!Warning] Ewentualnie może zdarzyć się tak, że pomimo $\det(H) = 0$ jest ekstremum.
 > Wtedy jest przypadek nieokreślony (wątpliwy)
+# Warunek dostateczny istnienia ekstremum (więcej zmiennych)
+Jeżeli:
+- Funkcja jest klasy $C^2$ na pewnym otoczeniu punktu $P$ (pochodna cząstkowa 2 rzędu jest ciągła)
+- Każda pochodna 1 stopnia jest równa $0$ ([[#Warunek konieczny istnienia ekstremów]])
+- [[#Macierz Hessego ($H$)|Macierz Hessego]] jest określona 
