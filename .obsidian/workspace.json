@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md"
               }
             }
           },
@@ -181,19 +181,21 @@
   },
   "active": "046692f30caabff6",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Liczenie ekstremów funkcji wielu zmiennych.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji złożonej.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
-    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Własności.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Ciągłość funkcji.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Twierdzenie o 3 ciągach..md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
+    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Liczenie ekstremów funkcji wielu zmiennych.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji złożonej.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Własności.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Ciągłość funkcji.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji.md",
     "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
     "Excalidraw/Rezonans 2024-07-29 00.42.52.excalidraw.md",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
@@ -209,8 +211,6 @@
     "Asymptoty.md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność warunkowa i bezwzględna.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",
     "Semestr 2/Opracowania/ANMAT - egz/Całki",
