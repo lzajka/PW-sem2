@@ -41,6 +41,10 @@ Spełnienie tego warunku konieczne jest do obliczenia wartości szeregu.
 $$
 \sum_{n = 1}^\infty a_{n_{1}} q^{n-1} = \frac{a_{1}}{1 - q}
 $$
+## Suma $n$ elementów
+$$
+S_{n} = \sum_{k=1}^n a_{1}*q^{k-1} = a_{1}* \frac{1-q^n}{1-q}
+$$
 # Szereg potęgowy
 Jest to szereg postaci:
 $$
