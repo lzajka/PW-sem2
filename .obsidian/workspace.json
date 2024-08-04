@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md"
               }
             }
           },
@@ -181,6 +181,11 @@
   },
   "active": "046692f30caabff6",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Twierdzenie o 3 ciągach..md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
@@ -193,11 +198,7 @@
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji złożonej.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Twierdzenie o 3 ciągach..md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
@@ -206,7 +207,6 @@
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Rolle'a.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Funkcje/Definicje.md",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
     "Pasted image 20240726231450.png",
     "Pasted image 20240726230613.png",
