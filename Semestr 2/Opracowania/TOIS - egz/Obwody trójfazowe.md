@@ -2,6 +2,17 @@ To obwody zawierające:
 - 3 źródła napięcia (**generator**) sinusoidalnych o jednakowej częstotliwości. Generator może być gwiazdą lub trójkątem. 
 - dalsza część obwodu zawiera elementy pasywne (**linia zasilania**) , jest połączeniem między **generatorem** a **odbiornikiem**.
 - 3 elementy pasywne (**odbiornik**). Odbiornik może być gwiazdą lub trójkątem
+
+> [!IMPORTANT] Generator 3 fazowy jest układem symetrycznym napięć.
+> Wszystkie fazy generatora:
+> 1. Wszystkie amplitudy ($E_{M}$) są identyczne
+> 2. Częstotliwość identyczna ($\omega$)
+> 3. Przesunięcie fazowe $\varphi = \pm 120 \degree$ w stosunku do początkowego
+> $e_{A} = E_{M} \sin(\omega t + \psi)$
+> $e_{B} = E_{M} \sin(\omega t + \psi - 120 \degree)$
+> $e_{C} = E_{M} \sin (\omega t + \psi + 120 \degree)$
+
+
 # Napięcie fazowe
 Jest to wartość $E_{A}$
 # Układ napięć miedzy międzyfazowych

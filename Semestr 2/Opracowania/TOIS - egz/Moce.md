@@ -20,7 +20,9 @@ Uproszczenie wygląda następująco.
 $$
 P = |U| |I| \cos \varphi
 $$
-Jednostką moczy czynnej jest **W**at
+Jednostką moczy czynnej jest **W**at.
+
+Generowana jest **tylko na rezystorze**.
 ## Współczynnik mocy
 $\cos \varphi$ jest współczynnikiem mocy, określa on charakter obwodu. Dla obwodu RLC jest ona nieujemna.
 Dla $\varphi = 0$ osiąga ona maksimum (rezystory idealne), natomiast dla $\varphi = \pm \frac{\pi}{2}$ (cewki i kondensatory idealne) osiąga ona minimum, wynika z tego że nie wytwarza się na **elementach reaktancyjnych**. 
