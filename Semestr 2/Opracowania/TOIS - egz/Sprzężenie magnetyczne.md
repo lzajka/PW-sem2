@@ -11,4 +11,4 @@ Jeżeli cewki są jednoimienne to $L_{x} - M$ jeżeli różnoimienne $L_{x} + M$
 
 > [!WARNING] Jest odwrotnie niż w przypadku [[Sprzężenie magnetyczne#Sprzężenie magnetyczne oddzielnych gałęzi]]
 
-
+ 
