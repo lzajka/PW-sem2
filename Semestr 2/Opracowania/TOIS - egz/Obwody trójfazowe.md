@@ -50,16 +50,18 @@ Napięcie niezrównoważone jest = 0 w przypadku gdy:
 Moc wytworzona na przewodzie zerowym jest mocą strat.
 
 # Stosunek napięcia między-fazowego do fazowego
+![[Obwody trójfazowe 2024-08-07 20.50.23.excalidraw|100%]]
 
 $$
-|E_{mf}| = \sqrt{ 3 }|E_{f}|
+|E_{l}| = \sqrt{ 3 }|E_{f}|
 $$
 # Stosunek prądu liniowego do fazowego
+Praktycznie to samo co z napięciem.
+
 $$
 |I_{l}|=\sqrt{ 3 }|I_{f}|
 
-$$\
-Praktycznie to to samo tylko, że między-fazowe to linowe, i napięcie to prąd.
+$$
 
 # Pomiar mocy (4 przewody)
 Po prostu zsumuj moce.
