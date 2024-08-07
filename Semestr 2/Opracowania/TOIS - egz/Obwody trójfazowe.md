@@ -50,7 +50,7 @@ Napięcie niezrównoważone jest = 0 w przypadku gdy:
 Moc wytworzona na przewodzie zerowym jest mocą strat.
 
 # Stosunek napięcia między-fazowego do fazowego
-![[Obwody trójfazowe 2024-08-07 20.50.23.excalidraw|100%]]
+![[Obwody trójfazowe 2024-08-07 20.50.23.excalidraw|70%]]
 
 $$
 |E_{l}| = \sqrt{ 3 }|E_{f}|
