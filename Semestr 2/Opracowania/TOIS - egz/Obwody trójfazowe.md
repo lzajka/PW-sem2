@@ -49,7 +49,7 @@ Napięcie niezrównoważone jest = 0 w przypadku gdy:
 ## Moc
 Moc wytworzona na przewodzie zerowym jest mocą strat.
 
-# Stosunek napięcia między-fazowego do fazowego
+# Stosunek napięcia liniowego do fazowego
 ![[Obwody trójfazowe 2024-08-07 20.50.23.excalidraw|70%]]
 
 $$
