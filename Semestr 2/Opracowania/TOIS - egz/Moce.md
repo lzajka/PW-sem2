@@ -20,6 +20,14 @@ Uproszczenie wygląda następująco.
 $$
 P = |U| |I| \cos \varphi
 $$
+$$
+P = \mathrm{Re}(S)
+$$
+lub
+$$
+P = \mathrm{Re}(Z)*|I|^2
+$$
+
 Jednostką moczy czynnej jest **W**at.
 
 Generowana jest **tylko na rezystorze**.
