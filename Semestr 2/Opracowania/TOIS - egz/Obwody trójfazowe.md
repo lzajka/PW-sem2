@@ -20,6 +20,8 @@ Jest to różnica napięć pomiędzy fazami. Napięcie międzyfazowe $E_{AB}$ wy
 $$
 E_{AB} = E_{A} - E_{B}
 $$
+
+
 # Symetryczność
 **Generator jest symetryczny**, gdy:
 $$
@@ -49,7 +51,7 @@ Napięcie niezrównoważone jest = 0 w przypadku gdy:
 ## Moc
 Moc wytworzona na przewodzie zerowym jest mocą strat.
 
-# Stosunek napięcia liniowego do fazowego
+# Stosunek napięcia liniowego (międzyfazowego) do fazowego
 ![[Obwody trójfazowe 2024-08-07 20.50.23.excalidraw|70%]]
 
 $$
