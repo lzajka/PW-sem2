@@ -66,8 +66,18 @@ $$
 
 $$
 
-# Pomiar mocy (4 przewody)
-Po prostu zsumuj moce.
+# Układ Arona
+Układ pomiarowy do mierzenia mocy czynnej w obwodach 3-fazowy 3-przewodowych.
+![[Pasted image 20240811180221.png|700]]
+Ogólnie to polega na tym, że:
+$$
+p(t) = u_{A}i_{A} + u_{B}i_{B} + u_{C}i_{C}
+$$
+można przekształcić na
+$$
+p(t) = (u_{A} - u_{C}) i_{A} + (u_{B} - i_{C})b_{C}
+$$
+> [!WARNING] Układ Arona działa jedynie na obwodach 3-fazowych 3-przewodowych
 # Składowe symetryczne
 
 W przypadku niesymetrycznego układu trójfazowego należy zastosować [[Składowe symetryczne|metodę składowych symetrycznych]]
