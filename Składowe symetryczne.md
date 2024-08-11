@@ -69,3 +69,6 @@ $E_{0} = 0, E_{1} = 0$ - układ symetryczny przeciwny
 $E_{1} \neq 0, E_{2} \neq 0$ - układ asymetryczny.
 
 To samo można zrobić z *prądem*, wystarczy podstawić $I_{x}$ za $E_{x}$.
+
+# Schematy zastępcze
+
