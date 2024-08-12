@@ -33,7 +33,7 @@ E_{C} = E_{A}^{j120}
 $$
 **Linia zasilania jest symetryczna**, gdy Impedancje są równe sobie.
 
-**Odbiornik jest symetryczny**, gdy nie ma zwarcia w przewodzie zerowym.
+**Odbiornik jest symetryczny**, gdy 
 
 **Układ jest symetryczny**, gdy wszystkie powyższe elementy są symetryczne. Czyli wtedy kiedy wszystkie napięcia mają równą wartość skuteczną oraz ich przesunięcie fazowe to wielokrotność $\pm 120 \degree$
 
