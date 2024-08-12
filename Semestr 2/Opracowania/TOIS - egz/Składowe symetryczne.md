@@ -71,4 +71,4 @@ $E_{1} \neq 0, E_{2} \neq 0$ - układ asymetryczny.
 To samo można zrobić z *prądem*, wystarczy podstawić $I_{x}$ za $E_{x}$.
 
 # Schematy zastępcze
-
+Jeżeli mamy 1 część obwodu symetryczną (np. odbiorniki), a 2 niesymetryczną (np. generator).

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,6 +109,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "6043be5975d63c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md"
               }
             }
           },
@@ -205,14 +218,20 @@
   },
   "active": "e59740d5e4804aba",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
+    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
+    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
+    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
+    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
     "Pasted image 20240811180221.png",
-    "Składowe symetryczne.md",
     "Pasted image 20240811012804.png",
     "Pasted image 20240811012748.png",
-    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
-    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Excalidraw/Obwody trójfazowe 2024-08-07 20.50.23.excalidraw.md",
     "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
@@ -228,11 +247,6 @@
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Twierdzenie o 3 ciągach..md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność warunkowa i bezwzględna.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Liczenie ekstremów funkcji wielu zmiennych.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Ciągłość funkcji.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
     "Pasted image 20240726231450.png",
     "Pasted image 20240726230613.png",
