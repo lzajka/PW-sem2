@@ -15,7 +15,15 @@ Aby taki obwód rozwiązać należy rozdzielić obwód na różne częstotliwoś
 	3. Obliczamy rezystancje zastępcze elementów dla danego $\omega$
 2. Liczymy prąd/napięcia **chwilowe** ( $i^{(\omega)}(t)$ lub $u^{(\omega)}(t)$ ) dla interesujących nas elementów dla każdej częstotliwości.
 3. Ostateczny prąd lub napięcie gałęziowe to suma prądów/napięć **wielkości czasowych** dla każdego $\omega$
-> [!WARNING] Dotyczy tylko wartości chwilowych
-> Nie wolno stosować wartości zespolonych.
+4. Wartości odczytane na na przyrządach są to pierwiastki sum modułów różnych częstotliwości $|I_{A}| = \sqrt{ |I_{A}^{(1)}|^2 +|I_{A}^{(2)}|^2 +|I_{A}^{(3)}|^2}$
 
+# Schemat - Obwód 3 fazowy
+Stosujemy tutaj metodę harmonicznych.
+
+$e_{A}(t) = 2\sin(w_{1}t) + \sin(3w_{1}t)$
+
+wielokrotność $\omega_{1}$ to tutaj $n$-ta harmoniczna.
+> [!WARNING]
+> Dla $n$-tej harmonicznej mnożymy również przesunięcie przez $n$
+> Z tego powodu w przewodzie zerowym może pojawić się prąd dla harmonicznych 3 rzędu.
 

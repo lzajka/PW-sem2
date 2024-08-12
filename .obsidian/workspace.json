@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "1b2cd833aa3acd8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "146238f7a176c9c1",
             "type": "leaf",
             "state": {
@@ -64,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md"
               }
             }
           },
@@ -216,26 +229,28 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e59740d5e4804aba",
+  "active": "1b2cd833aa3acd8b",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/TOIS - egz/Untitled 2.md",
-    "Semestr 2/Opracowania/TOIS - egz/Zmienne stanu.md",
-    "Semestr 2/Opracowania/TOIS - egz/Untitled 1.md",
-    "Semestr 2/Opracowania/TOIS - egz/Untitled.md",
-    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
-    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
-    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
-    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
-    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
+    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
+    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
-    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
-    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
-    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
+    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+    "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
+    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
+    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
+    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
+    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+    "Semestr 2/Opracowania/TOIS - egz/Untitled.md",
+    "Semestr 2/Opracowania/TOIS - egz/Untitled 1.md",
+    "Semestr 2/Opracowania/TOIS - egz/Untitled 2.md",
+    "Semestr 2/Opracowania/TOIS - egz/Zmienne stanu.md",
     "Pasted image 20240618213527.png",
     "Pasted image 20240618215141.png",
     "Pasted image 20240618213524.png",
@@ -246,14 +261,12 @@
     "Pasted image 20240616211923.png",
     "Pasted image 20240605194917.png",
     "Pasted image 20240605165516.png",
-    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
     "Excalidraw/Obwody trójfazowe 2024-08-07 20.50.23.excalidraw.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",
