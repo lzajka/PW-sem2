@@ -31,7 +31,7 @@ $$
 $$
 E_{C} = E_{A}^{j120}
 $$
-**Linia zasilania jest symetryczna**, gdy:
+**Linia zasilania jest symetryczna**, gdy Impedancje są równe sobie.
 
 **Odbiornik jest symetryczny**, gdy nie ma zwarcia w przewodzie zerowym.
 
