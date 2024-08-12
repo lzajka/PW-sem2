@@ -81,3 +81,10 @@ $$
 # Składowe symetryczne
 
 W przypadku niesymetrycznego układu trójfazowego należy zastosować [[Składowe symetryczne|metodę składowych symetrycznych]]
+
+# Analiza w przypadku wielokrotności częstotliwości
+Stosowane są tutaj harmoniczne.
+
+1. Liczysz rezystancje zastępczą dla każdej harmonicznej
+2. Liczysz warunki panujące w obwodzie.
+3. W przypadku w którym jesteś w harmonicznych 3 rzędu, w przewodzie 0 może wystąpić prąd. Jest on sumą prądów fazowych.

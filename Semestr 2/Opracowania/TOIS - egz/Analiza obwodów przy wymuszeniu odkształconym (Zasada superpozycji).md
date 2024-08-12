@@ -19,11 +19,3 @@ Aby taki obwód rozwiązać należy rozdzielić obwód na różne częstotliwoś
 > Nie wolno stosować wartości zespolonych.
 
 
-> [!WARNING] Składowe 3-rzędu w obwodach trójfazowych
-> W obwodach 3 fazowych harmoniczne 3 rzędu (nie podzielne przez 2) sumują się w przewodzie 0.
-> Można wtedy pominąć inne harmoniczne parzyste.
-> 
-> I ogólnie to chyba jeszcze powodują, że nie ma przesunięcia między fazami (ale może to tylko dla 3)
-
-
-> 
