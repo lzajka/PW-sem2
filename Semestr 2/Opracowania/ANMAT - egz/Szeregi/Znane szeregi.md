@@ -9,8 +9,6 @@ $$
 Szereg harmoniczny jest szeregiem rozbieżnym.
 ## Zastosowanie
 Szereg harmoniczny znajduje często w sprawdzaniu zbieżności innych szeregów za pomocą [[Kryteria zbieżności#Kryterium porównawcze|kryteria porównawczego]] 
-# Szereg Taylora
-# Szereg Maclourina
 # Szereg anharmoniczny
 To jakby połączenie szeregu harmonicznego oraz szeregu naprzemiennego.
 $$

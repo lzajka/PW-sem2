@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4783f27b246f8a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md"
               }
             }
           },
@@ -229,12 +242,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1b2cd833aa3acd8b",
+  "active": "4783f27b246f8a47",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Suma szeregu.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Suma szeregu.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
+    "Semestr 2/Opracowania/ANMAT - egz/funkcji ciągłej.md",
+    "Semestr 2/Opracowania/ANMAT - egz/TODO.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md",
+    "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
+    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
+    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność warunkowa i bezwzględna.md",
     "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
@@ -247,15 +270,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
     "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
-    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
-    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
-    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
-    "Semestr 2/Opracowania/TOIS - egz/Untitled.md",
-    "Semestr 2/Opracowania/TOIS - egz/Untitled 1.md",
-    "Semestr 2/Opracowania/TOIS - egz/Untitled 2.md",
-    "Semestr 2/Opracowania/TOIS - egz/Zmienne stanu.md",
     "Pasted image 20240618213527.png",
     "Pasted image 20240618215141.png",
     "Pasted image 20240618213524.png",
@@ -266,7 +280,6 @@
     "Pasted image 20240616211923.png",
     "Pasted image 20240605194917.png",
     "Pasted image 20240605165516.png",
-    "Excalidraw/Obwody trójfazowe 2024-08-07 20.50.23.excalidraw.md",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",
