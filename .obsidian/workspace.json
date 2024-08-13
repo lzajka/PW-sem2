@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Oszacowanie stirlinga.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Oszacowanie stirlinga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Oszacowanie stirlinga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Oszacowanie stirlinga.md"
               }
             }
           },
@@ -244,14 +244,16 @@
   },
   "active": "4783f27b246f8a47",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Oszacowanie stirlinga.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Suma szeregu.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Suma szeregu.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
     "Semestr 2/Opracowania/ANMAT - egz/funkcji ciągłej.md",
     "Semestr 2/Opracowania/ANMAT - egz/TODO.md",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md",
@@ -268,8 +270,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
-    "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
-    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
     "Pasted image 20240618213527.png",
     "Pasted image 20240618215141.png",
     "Pasted image 20240618213524.png",
