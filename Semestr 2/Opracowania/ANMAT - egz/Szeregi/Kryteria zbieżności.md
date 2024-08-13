@@ -15,7 +15,7 @@ Jeżeli mamy 2 szeregi $\sum_{n = 1}^\infty a_{n}$ oraz $\sum^\infty_{n=1}b_{n}$
 
 - Jeśli $\sum_{n = 1}^\infty b_{n}$ jest zbieżny to $\sum_{n = 1} ^\infty a_{n}$ też jest zbieżny.
 # Kryterium Couchy'ego
-Jeżeli od pewnego $n$ : $a_{n} > 0$ oraz $\lim_{ n \to \infty } \sqrt[n]{ a_{n}} = q$ to dla:
+Jeżeli od pewnego $n$ : $a_{n} > 0$ oraz $\lim_{ n \to \infty } \sqrt[n]{ |a_{n}|} = q$ to dla:
 - $q < 1$: szereg jest zbieżny
 - $q > 1$: szereg jest rozbieżny
 - $q = 1$: zła metoda
