@@ -65,6 +65,13 @@ Szereg zawsze jest zbieżny w przypadku w którym $x = x_{0}$.
 \end{cases}
 $$
 3. Następnie podstawiamy do $(x_{0} - R, x_{0} + R)$ 
+
+> [!TIP] Co jeżeli końcówka nie jest postaci $(x-x_{0})^n$ ?
+> Liczymy normalnie $R$. Jak już wyliczymy to zauważamy że $R$ jedynie nam mówiło w jakim przedziale wartości tej końcówki muszą się mieścić.
+> Czyli dla przykładu $(x-x_{0})^{2n}$ to robimy:
+> $(x-x_{0})^2 < -R \space \wedge \space (x-x_{0})^2 > R$ .
+> I później normalnie sprawdzamy zbieżność na krawędziach.
+
 ## Zbieżność na krańcach
 Powyżej pokazałem jak obliczyć obszar zbieżności. Wiemy że $x$ może być wartością z przedziału $(x_{0} - R, x_{0} + R)$.
 **Nie wiemy** natomiast czy w dla $x$ w punktach $x_{0} - R$ oraz $x_{0} + R$  nazywanych krańcami zachodzi zbieżność. W tym przypadku należy podstawić pod $x$ te wartości, a następnie stosując metody sprawdzić, czy dla takiego $x$ zachodzi zbieżność. 
