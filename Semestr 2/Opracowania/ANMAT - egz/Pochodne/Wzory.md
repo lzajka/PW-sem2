@@ -34,3 +34,6 @@ $$
 $$
 (\tanh x)' = \frac{1}{\cosh^2 x}
 $$
+$$
+\frac{f(x)}{g(x)} = \frac{f'(x)*g(x) - f(x)*g'(x)}{g^2(x)}
+$$

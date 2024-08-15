@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md"
               }
             }
           },
@@ -244,8 +244,8 @@
   },
   "active": "4783f27b246f8a47",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
     "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Liczenie ekstremów funkcji wielu zmiennych.md",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
