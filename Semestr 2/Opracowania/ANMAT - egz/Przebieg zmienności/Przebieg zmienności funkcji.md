@@ -30,10 +30,10 @@ Ponieważ funkcja dla punktu $1$ posiada zarówno asymptotę prawostronną, i le
 ## Asymptota pozioma
 Liczymy 2 granice:
 $$
-\lim_{ x \to \infty } f(x) = a
+y = \lim_{ x \to \infty } f(x)
 $$
 $$
-\lim_{ x \to -\infty } f(x) = a 
+y = \lim_{ x \to -\infty } f(x)
 $$
 ważne, żeby $a \neq \pm\infty$ oraz żeby te granice istniały (mogą nie istnieć). Asymptota również może być jednostronna lub obustronna.
 ## Asymptota ukośna
