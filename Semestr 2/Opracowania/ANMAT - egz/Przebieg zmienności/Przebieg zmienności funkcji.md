@@ -35,12 +35,13 @@ $$
 $$
 \lim_{ x \to -\infty } f(x) = a 
 $$
-ważne, żeby $a \neq \pm\infty$. Asymptota również może być jednostronna lub obustronna.
+ważne, żeby $a \neq \pm\infty$ oraz żeby te granice istniały (mogą nie istnieć). Asymptota również może być jednostronna lub obustronna.
 ## Asymptota ukośna
+Asymptota pozioma to szczególny przypadek asymptoty ukośnej $a = 0$, a więc jeżeli asymptota pozioma istnieje dla danej strony to nie liczymy asymptoty ukośnej. 
 $$
 a = \lim_{ x \to \pm\infty } \frac{f(x)}{x}
 $$
-> [!NOTE] Asymptota pozioma to szczególny przypadek asymptoty ukośnej. $a = 0$
+jeżeli wyjdzie $a = \pm \infty$ to nie ma asymptoty ukośnej.
 
 $$
 b = \lim_{ x \to \pm\infty } f(x) - ax 
