@@ -1,6 +1,6 @@
 #AnalizaMatematyczna #Monotoniczność #Granice #Asymptoty #Pochodne #Funkcje 
 # Kolejność badania
-1. Dziedziny i granice\
+1. Dziedziny i granice
 2. [[#Asymptoty]]
 3. [[#Monotoniczność]]
 4. Minima i ekstrema
