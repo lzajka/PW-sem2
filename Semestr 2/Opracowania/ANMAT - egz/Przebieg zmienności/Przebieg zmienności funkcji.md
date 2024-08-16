@@ -3,7 +3,7 @@
 1. Dziedziny i granice
 2. [[#Asymptoty]]
 3. [[#Monotoniczność]]
-4. Minima i ekstrema
+4. Ekstrema
 5. [[#Przedziały wklęsłości i wypukłości|Wklęsłość, wypukłość oraz punkty przegięcia]]
 6. [[#Tabelka]]
 7. Wykres
