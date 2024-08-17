@@ -52,6 +52,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb48ef2b41a4eb1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a935a0f6bf795a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "mode": "source",
                 "backlinks": false,
@@ -90,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,14 +268,27 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4783f27b246f8a47",
+  "active": "2a935a0f6bf795a0",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
+    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
+    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
+    "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
+    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
+    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Liczenie ekstremów funkcji wielu zmiennych.md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Ciągłość funkcji.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
@@ -257,19 +296,6 @@
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji złożonej.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Twierdzenie o 3 ciągach..md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Suma szeregu.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Oszacowanie stirlinga.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
-    "Semestr 2/Opracowania/ANMAT - egz/funkcji ciągłej.md",
-    "Semestr 2/Opracowania/ANMAT - egz/TODO.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md",
     "Pasted image 20240618213527.png",
     "Pasted image 20240618215141.png",
     "Pasted image 20240618213524.png",

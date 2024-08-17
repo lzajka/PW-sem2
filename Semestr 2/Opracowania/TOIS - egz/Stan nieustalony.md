@@ -31,4 +31,7 @@ $$
    ![[Pasted image 20240618232523.png]]
 3. Rozbijamy i jest równanie różniczkowe 🤮
    ![[Pasted image 20240618232740.png]]
-4. 
+
+> [!NOTE] Możliwe, że w składowej nieustalonej źródła jednak zachowują się specyficznie.
+> Źródła prądowe -> rozwarcie.
+> Źródła napięciowe -> zwarcie.
