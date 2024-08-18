@@ -35,3 +35,23 @@ $$
 > [!NOTE] Możliwe, że w składowej nieustalonej źródła jednak zachowują się specyficznie.
 > Źródła prądowe -> rozwarcie.
 > Źródła napięciowe -> zwarcie.
+
+# Zapis układu w postaci macierzowej
+$$
+\begin{rcases}
+R i_{Lp} + L \frac{di_{cp}}{dt} + u_{cp} = 0 \\
+i_{Lp} = i_{c} = C \frac{d u_{cp}}{d t}  
+\end{rcases} 
+\to
+\begin{matrix*}[l]
+\frac{d i_{cp}}{d t} = \frac{1}{L}[-Ri_{cp} - u_{cp}] \\
+\frac{d u_{cp}}{d t} = \frac{1}{C} i_{Lp} 
+\end{matrix*}
+\to
+\begin{bmatrix}
+\frac{d i_{Cp}}{d t} \\
+\frac{d U_{cp}}{d t}  
+\end{bmatrix}
+
+
+$$
