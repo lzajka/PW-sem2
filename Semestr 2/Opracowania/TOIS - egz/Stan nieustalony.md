@@ -36,6 +36,8 @@ $$
 > Źródła prądowe -> rozwarcie.
 > Źródła napięciowe -> zwarcie.
 
+
+
 # Zapis układu w postaci macierzowej
 
 $$

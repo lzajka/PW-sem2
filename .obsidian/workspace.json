@@ -34,33 +34,7 @@
             }
           },
           {
-            "id": "1b2cd833aa3acd8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4783f27b246f8a47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb48ef2b41a4eb1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,45 +52,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "146238f7a176c9c1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Obwody trójfazowe 2024-08-07 20.50.23.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "155e37f54a332443",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Rezonans 2024-07-29 00.42.52.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3b70f5e781241a76",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Metoda prądów oczkowych 2024-07-24 18.01.48.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md"
               }
             }
           },
@@ -268,7 +212,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2a935a0f6bf795a0",
+  "active": "4783f27b246f8a47",
   "lastOpenFiles": [
     "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
     "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
