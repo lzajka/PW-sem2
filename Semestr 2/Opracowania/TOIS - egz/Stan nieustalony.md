@@ -37,6 +37,7 @@ $$
 > Źródła napięciowe -> zwarcie.
 
 # Zapis układu w postaci macierzowej
+
 $$
 \begin{rcases}
 R i_{Lp} + L \frac{di_{cp}}{dt} + u_{cp} = 0 \\
@@ -48,10 +49,19 @@ i_{Lp} = i_{c} = C \frac{d u_{cp}}{d t}
 \frac{d u_{cp}}{d t} = \frac{1}{C} i_{Lp} 
 \end{matrix*}
 \to
-\begin{bmatrix}
+\underbrace{\begin{bmatrix}
 \frac{d i_{Cp}}{d t} \\
 \frac{d U_{cp}}{d t}  
-\end{bmatrix}
-
-
+\end{bmatrix}}_{\mathbb{x}_{p}(t)}
+=
+\underbrace{\begin{matrix*}[|c|c|]
+ \hline
+ -\frac{R}{L} & -\frac{1}{L} \\ \hline
+\frac{1}{C} & 0 \\ \hline
+ 
+\end{matrix*}}_{\mathbb{A}}
+\underbrace{\begin{bmatrix}
+i_{Lp} \\
+u_{Cp}
+\end{bmatrix}}_{\mathbb{x}_{p}(0)}
 $$
