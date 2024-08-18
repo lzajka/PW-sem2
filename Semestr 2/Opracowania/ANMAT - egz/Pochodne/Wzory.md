@@ -18,9 +18,6 @@ $$
 
 $$
 (\arccos)' = -\frac{1}{\sqrt{  1-x^2 }}
-$$
-$$
-(\arccot x)' = \frac{1}{x^2 + 1}
 $$$$
 (\arctan x )' = \frac{1}{x^2 + 1}
 $$$$

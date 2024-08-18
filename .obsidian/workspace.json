@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md"
               }
             }
           },
@@ -201,10 +201,18 @@
   },
   "active": "ee79fd812e6dfb45",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Twierdzenie o 3 ciągach..md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
     "Pasted image 20240818160511.png",
     "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Pasted image 20240726230452.png",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Zmienne stanu.md",
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
@@ -221,13 +229,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
-    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
-    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
-    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
     "Pasted image 20240618213527.png",
     "Pasted image 20240618215141.png",
     "Pasted image 20240618213524.png",
@@ -236,7 +237,6 @@
     "Pasted Image 20240616231053_507.png",
     "Pasted Image 20240616230533_485.png",
     "Pasted image 20240616211923.png",
-    "Pasted image 20240605194917.png",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",
