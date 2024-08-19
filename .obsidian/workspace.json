@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   },
   "active": "ee79fd812e6dfb45",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Ciągłość funkcji.md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Liczenie ekstremów funkcji wielu zmiennych.md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
@@ -209,7 +210,6 @@
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Suma szeregu.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność warunkowa i bezwzględna.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Twierdzenie o 3 ciągach..md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
     "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",

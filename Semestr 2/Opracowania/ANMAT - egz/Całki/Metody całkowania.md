@@ -2,11 +2,11 @@
 # Całkowanie przez części
 Jeżeli funkcje mają ciągłe pochodne, to:
 $$
-f(x) * g'(x) = f(x)*g(x) - \int f'(x)*g(x)
+\int (f(x) * g'(x))dx = f(x)*g(x) - \int f'(x)*g(x)
 $$
 lub odwrotnie
 $$
-f'(x) * g(x) = f(x)*g(x) - \int f(x)*g'(x)
+\int (f'(x) * g(x)) = f(x)*g(x) - \int f(x)*g'(x)
 $$
 # Całkowanie ułamków prostych
 $$
