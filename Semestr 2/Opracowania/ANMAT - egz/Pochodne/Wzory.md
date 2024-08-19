@@ -15,6 +15,12 @@ $$
 $$
 (\arcsin x)' = \frac{1}{\sqrt{ 1-x^2 }}
 $$
+$$
+(\tan x)' = \frac{1}{\cos^2 x}
+$$
+$$
+(\cot x)' = - \frac{1}{\sin^2 x}
+$$
 
 $$
 (\arccos)' = -\frac{1}{\sqrt{  1-x^2 }}
