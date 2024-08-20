@@ -49,9 +49,26 @@ $$
 Jeżeli $\Delta < 0$ nie można użyć wcześniejszej metody. Zamiast jej można użyć jednego z następujących wzorów
 $$
 \int \frac{g'(x)}{g(x)}dx = \ln|g(x)| + C
-$$ lub 
-$\DeclareMathOperator{\arccot}{arccot}$
 $$
-\int 
+# Podstawienia Eulera
+Pozwalają na obliczenie trudnych całek z funkcji nie wymiernych.
+## I podstawienie Eulera
 $$
+\sqrt{ ax^2 + bx +c } = t \pm x \sqrt{ a }
+$$
+gdy: $a > 0$ 
+następnie
+## II podstawienie Eulera
+$$
+\sqrt{ ax^2 + bx + c } = \left( x+\frac{b}{2a} \right)t - \sqrt{ -\frac{\Delta}{4a} }
+$$
+gdy: $a<0 \wedge \Delta < 0$
 
+# Podstawienie uniwersalne
+Przydatne podczas całkowania funkcji trygonometrycznych. 
+$$
+t = \tan \frac{x}{2}
+$$
+$$
+dx = \frac{2}{1 +{ t^2}} dt
+$$
