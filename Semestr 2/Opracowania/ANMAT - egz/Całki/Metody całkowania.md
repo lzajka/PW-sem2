@@ -67,13 +67,25 @@ $$
 $$
 A więc:
 $$
-\int \frac{1}{\sqrt{ x^2 +k }} dx = \int \frac{dt}{t} dx = \ln|t| + C
-$$
-# Podstawienie uniwersalne
-Przydatne podczas całkowania funkcji trygonometrycznych. 
+\int \frac{1}{\sqrt{ x^2 +k }} dx = \int \frac{dt}{t} dx = \ln|t| + C = \ln |x + \sqrt{ x^2 +k }| + C
+$$ 
+# Całkowanie funkcji trygonometrycznych
+Tutaj stosujemy podstawienia wynikające z znanych tożsamości trygnometrycznych
 $$
 t = \tan \frac{x}{2}
 $$
 $$
-dx = \frac{2}{1 +{ t^2}} dt
+x = 2\arctan(t)
+$$
+$$
+dx = \frac{2}{1 +t^2} dt
+$$
+$$
+\cos(x) = \frac{1- t^2}{1+t^2}
+$$
+$$
+\sin(x) =  \frac{2t}{1+t^2}
+$$
+$$
+\int R(\cos x, \sin x) dx = \int R\left( \frac{1-t^2}{1+t^2}, \frac{2t}{1+t^2} \right)  \frac{2}{1+t^2}dt
 $$
