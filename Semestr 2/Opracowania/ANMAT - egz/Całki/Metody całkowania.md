@@ -51,19 +51,24 @@ $$
 \int \frac{g'(x)}{g(x)}dx = \ln|g(x)| + C
 $$
 # Podstawienia Eulera
-Pozwalają na obliczenie trudnych całek z funkcji nie wymiernych.
-## I podstawienie Eulera
+Całkę postaci 
+$$ \int \frac{1}{\sqrt{ x^2 +k }} dx$$
+gdzie $k$ to dowolna stała niezerowa, obliczamy stosując *podstawienie Eulera*.
+Podstawienie Eulera wygląda następująco:
 $$
-\sqrt{ ax^2 + bx +c } = t \pm x \sqrt{ a }
+t = x + \sqrt{ x^2 + k }
 $$
-gdy: $a > 0$ 
-następnie
-## II podstawienie Eulera
 $$
-\sqrt{ ax^2 + bx + c } = \left( x+\frac{b}{2a} \right)t - \sqrt{ -\frac{\Delta}{4a} }
+dt= 1 + \frac{x}{\sqrt{ x^2 + k }} dx = \frac{\sqrt{ x^2 +k } + x}{\sqrt{ x^2 +k }}dx = \frac{t}{\sqrt{ x^2 +k }}dx
 $$
-gdy: $a<0 \wedge \Delta < 0$
-
+Zatem
+$$
+\frac{dt}{t} = \frac{1}{\sqrt{ x^2 +k }}dx
+$$
+A więc:
+$$
+\int \frac{1}{\sqrt{ x^2 +k }} dx = \int \frac{dt}{t} dx = \ln|t| + C
+$$
 # Podstawienie uniwersalne
 Przydatne podczas całkowania funkcji trygonometrycznych. 
 $$
