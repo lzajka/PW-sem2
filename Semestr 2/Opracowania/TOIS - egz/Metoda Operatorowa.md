@@ -11,8 +11,8 @@ Obwód się np. nagle zamyka, no i musi jakoś łagodnie przejść.
 3. **Liczymy Składową przejściową**
 	1. Stosujemy transformacje Laplace'a
 		1. $U_{R}(s)=Ri_{R}(s)$
-		2. $U_{L}(s)= sLI_{L}(s) - LI_{L}(0^+)$
-		3. $U_{C}(s)= \frac{1}{sc}I_{C}(s) + \frac{U_{C}(0^+)}{s}$
+		2. $U_{L}(s)= sLI_{L}(s) - Li_{L}(0^+)$
+		3. $U_{C}(s)= \frac{1}{sC}I_{C}(s) + \frac{U_{C}(0^+)}{s}$
 	2. Obliczamy dalsze rzecy.
 	3. Stosujemy transformację odwrotną laplaca na tym co liczymy.
 4.  Sumujemy składową przejściową + składową ustaloną	
