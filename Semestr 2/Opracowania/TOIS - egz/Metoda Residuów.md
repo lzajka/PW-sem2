@@ -1,0 +1,1 @@
+#TOIS #MetodaResiduów #StanNieustalony

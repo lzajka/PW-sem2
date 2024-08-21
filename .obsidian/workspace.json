@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md"
               }
             }
           },
@@ -227,32 +227,32 @@
   },
   "active": "4456289cefd01d5e",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Wzór Heavyside'a.md",
+    "Semestr 2/Opracowania/TOIS - egz/Untitled 2.md",
+    "Semestr 2/Opracowania/TOIS - egz/Untitled 1.md",
+    "Semestr 2/Opracowania/TOIS - egz/Untitled.md",
+    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
+    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
+    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
+    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
+    "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Residuów.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
-    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
     "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
     "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
     "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
-    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Untitled.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Ciągłość funkcji.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Liczenie ekstremów funkcji wielu zmiennych.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Oszacowanie stirlinga.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Suma szeregu.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność warunkowa i bezwzględna.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Twierdzenie o 3 ciągach..md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
     "Pasted image 20240818160511.png",
     "Pasted image 20240726230452.png",
     "Pasted image 20240618213527.png",
