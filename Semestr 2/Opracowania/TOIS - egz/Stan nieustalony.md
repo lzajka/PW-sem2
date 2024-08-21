@@ -18,8 +18,8 @@ $$
 i_{L}(0^-) = i_{L}(0^+)
 $$
 # Schemat
-1. Warunki początkowe (zwarte cewki, rozwarte kondensatory)
-2. Stan ustalony po przełączeniu (zwarte cewki, rozwarte kondensatory)
+1. Warunki początkowe (Dla DC: zwarte cewki, rozwarte kondensatory
+2. Stan ustalony po przełączeniu (Dla DC: zwarte cewki, rozwarte kondensatory)
 3. warunki początkowe dla składowej przejściowej
 4. Obliczenie składowej przejściowej (system operatorowy -> transformata laplace -> składowa przejściowa)
 5
