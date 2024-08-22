@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15f53e43a8f8a27b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AnalizaMatematyczna",
+                "query": "tag:#StanNieustalony",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md"
               }
             }
           },
@@ -238,8 +251,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "30b27d2b2122e67f",
+  "active": "15f53e43a8f8a27b",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
@@ -247,7 +261,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
     "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",

@@ -1,3 +1,4 @@
+#TOIS #StanNieustalony
 **Stan nieustalony** występuje wtedy kiedy postać odpowiedzi różni się od wymuszenia (np. różni się częstotliwość lub odpowiedź jest wykładnicza, gdy wymuszenie jest sinusoidalne).
 **Stan ustalony** występuje wtedy kiedy postać odpowiedzi jest taka sama jak wymuszenia.
 
@@ -20,7 +21,7 @@ $$
 # Schemat
 1. Warunki początkowe (Dla DC: zwarte cewki, rozwarte kondensatory
 2. Stan ustalony po przełączeniu (Dla DC: zwarte cewki, rozwarte kondensatory)
-3. warunki początkowe dla składowej przejściowej
+3. warunki początkowe dla składowej przejściowej (Dla AC: rozwarte źródła prądu, zwarte źródła napięcia)
 4. Obliczenie składowej przejściowej (system operatorowy -> transformata laplace -> składowa przejściowa)
 # Schemat
 ![[Pasted image 20240618232257.png]]
@@ -30,11 +31,7 @@ $$
    ![[Pasted image 20240618232523.png]]
 3. Rozbijamy i jest równanie różniczkowe 🤮
    ![[Pasted image 20240618232740.png]]
-
-> [!NOTE] Możliwe, że w składowej przejściowej źródła jednak zachowują się specyficznie.
-> Źródła prądowe -> rozwarcie.
-> Źródła napięciowe -> zwarcie.
-
+   
 Inne sposoby rozwiązywania:
 - [[Metoda zmiennych stanu]]
 - [[Metoda Operatorowa]]
