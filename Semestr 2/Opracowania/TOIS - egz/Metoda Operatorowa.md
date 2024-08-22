@@ -15,6 +15,7 @@ Obwód się np. nagle zamyka, no i musi jakoś łagodnie przejść.
 		1. $U_{R}(s)=Ri_{R}(s)$
 		2. $U_{L}(s)= sLI_{L}(s) - Li_{L}(0^+)$ (w przypadku sprzężenia, zachowujemy się jakby była kolejna cewka)
 		3. $U_{C}(s)= \frac{1}{sC}I_{C}(s) + \frac{U_{C}(0^+)}{s}$
+		4. Podobnie przekształcamy źródła.
 	2. Obliczamy dalsze rzeczy.
 	3. Stosujemy [[Transformacja Odwrotna Laplace'a|transformację odwrotną laplace'a]] na tym co liczymy.
 5.  Sumujemy składową przejściową + składową ustaloną

@@ -65,6 +65,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30b27d2b2122e67f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
                 "mode": "source",
                 "backlinks": false,
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,28 +238,28 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4456289cefd01d5e",
+  "active": "30b27d2b2122e67f",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
-    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
     "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
-    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
-    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Residuów.md",
-    "Semestr 2/Opracowania/TOIS - egz/Wzór Heavyside'a.md",
-    "Semestr 2/Opracowania/TOIS - egz/Untitled 2.md",
-    "Semestr 2/Opracowania/TOIS - egz/Untitled 1.md",
-    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
-    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+    "Semestr 2/Opracowania/TOIS - egz/Wzór Heavyside'a.md",
+    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
-    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Residuów.md",
+    "Semestr 2/Opracowania/TOIS - egz/Untitled 2.md",
+    "Semestr 2/Opracowania/TOIS - egz/Untitled 1.md",
+    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
+    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
     "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
     "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
     "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
