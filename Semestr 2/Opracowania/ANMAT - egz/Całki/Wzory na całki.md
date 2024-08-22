@@ -29,9 +29,9 @@ $$
 \int \frac{1}{\sin^2 x} dx = -\cot x + C
 $$
 $$
-\int \frac{1}{\sqrt{ 1-x^2 }} dx = \arcsin x + C
+\int \frac{1}{\sqrt{ a^2-x^2 }} dx = \arcsin \frac{x}{a} + C
 $$
 $$
-\int \frac{1}{1 + x^2} = \arctan x + C
+\int \frac{1}{x^2 + a^2} dx = \frac{1}{a} \arctan \frac{x}{a} + C
 $$
 
