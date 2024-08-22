@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md"
               }
             }
           },
@@ -227,10 +227,11 @@
   },
   "active": "4456289cefd01d5e",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
-    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
     "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
+    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
+    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Residuów.md",
@@ -250,7 +251,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
     "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
     "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
     "Pasted image 20240818160511.png",
