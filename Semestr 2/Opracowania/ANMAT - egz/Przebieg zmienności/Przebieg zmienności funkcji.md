@@ -77,3 +77,5 @@ Wyróżniamy 2 typy:
 >[!WARNING] Punkt przegięcia może wystąpić jeżeli pochodna 2 stopnia nie istnieje.
 # Tabelka
 Na podstawie informacji o znaku pochodnych 1 i 2 stopnia dla określonych przedziałów oraz pokazuje jak wygląda zmiana wartości.
+# Wykres
+Na podstawie tabelki rysujemy wykres funkcji.

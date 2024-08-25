@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md"
               }
             }
           },
@@ -266,6 +266,9 @@
   },
   "active": "8fcde53c6ee51357",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/funkcji ciągłej.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
     "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
@@ -289,9 +292,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Residuów.md",
     "Semestr 2/Opracowania/TOIS - egz/Untitled 2.md",
-    "Semestr 2/Opracowania/TOIS - egz/Untitled 1.md",
-    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
     "Pasted image 20240818160511.png",
     "Pasted image 20240726230452.png",
     "Pasted image 20240618213527.png",
