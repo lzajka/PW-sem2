@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md"
               }
             }
           },
@@ -253,13 +253,13 @@
   },
   "active": "ee79fd812e6dfb45",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
