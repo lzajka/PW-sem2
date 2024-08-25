@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md"
               }
             }
           },
@@ -251,12 +251,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "15f53e43a8f8a27b",
+  "active": "ee79fd812e6dfb45",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
     "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
@@ -275,9 +277,7 @@
     "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
     "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
     "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
-    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
     "Semestr 2/Opracowania/TOIS - egz/Operatorowa.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
     "Pasted image 20240818160511.png",
     "Pasted image 20240726230452.png",

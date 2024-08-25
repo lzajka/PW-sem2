@@ -21,9 +21,9 @@ $$
 # Schemat
 1. Warunki początkowe (Dla DC: zwarte cewki, rozwarte kondensatory
 2. Stan ustalony po przełączeniu (Dla DC: zwarte cewki, rozwarte kondensatory)
-3. warunki początkowe dla składowej przejściowej (Dla AC: rozwarte źródła prądu, zwarte źródła napięcia)
+3. składowa przejściowa (Dla ??: rozwarte źródła prądu, zwarte źródła napięcia)
 4. Obliczenie składowej przejściowej (system operatorowy -> transformata laplace -> składowa przejściowa)
-# Schemat
+# Schema
 ![[Pasted image 20240618232257.png]]
 1. Zaczynasz w momencie w którym $\omega = 0$ i $t = 0$
    ![[Pasted image 20240618232326.png]]
