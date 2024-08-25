@@ -28,4 +28,4 @@ Obwód się np. nagle zamyka, no i musi jakoś łagodnie przejść.
    ![[Pasted image 20240618233813.png]]
 3. Wiemy że warunki początkowe to $i_{1}(0^-) = 0 = i(0^+)$, to samo dla $i_{2}$
 1. Znajdź $I_{1}(s), I_{2}(s), \dots$
-2. Przebieg czasowy obliczamy za pomocą [[Metoda Residuów|Metody residuów]] lub korzystając ze [[Wzór Heavyside'a|wzoru Heavyside'a]]
+2. Przebieg czasowy obliczamy za pomocą [[Transformacja Odwrotna Laplace'a#Metoda Residuów|Metody residuów]] lub korzystając ze [[Wzór Heavyside'a|wzoru Heavyside'a]]
