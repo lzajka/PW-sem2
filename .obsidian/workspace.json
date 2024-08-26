@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md"
               }
             }
           },
@@ -266,9 +266,11 @@
   },
   "active": "8fcde53c6ee51357",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
     "Semestr 2/Opracowania/ANMAT - egz/funkcji ciągłej.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
     "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
@@ -280,7 +282,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
@@ -291,7 +292,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Residuów.md",
-    "Semestr 2/Opracowania/TOIS - egz/Untitled 2.md",
     "Pasted image 20240818160511.png",
     "Pasted image 20240726230452.png",
     "Pasted image 20240618213527.png",

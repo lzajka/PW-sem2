@@ -47,3 +47,14 @@ Twierdzenie mówi, że jeśli ciąg $a_{n}$ jest **nierosnący** i dążący do 
 > [!WARNING] Nie spełnienie kryterium rozbieżności szeregu.
 # Zbieżność bezwzględna
 ![[Zbieżność warunkowa i bezwzględna#Zbieżność bezwzględna]]
+
+# Kryterium całkowe
+Jeżeli wyrazy szeregu są dodatnie i maleją oraz $f(x) = a_{n}$.
+To szereg
+$$
+\sum_{n=1}^\infty a_{n}
+$$
+jest zbieżny wtedy, i tylko wtedy, gdy zbieżna jest całka
+$$
+\int_{1}^\infty f(x) dx
+$$
