@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md"
               }
             }
           },
@@ -266,6 +266,7 @@
   },
   "active": "8fcde53c6ee51357",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
@@ -291,7 +292,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Residuów.md",
     "Pasted image 20240818160511.png",
     "Pasted image 20240726230452.png",
     "Pasted image 20240618213527.png",

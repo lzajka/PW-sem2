@@ -46,9 +46,19 @@ $$
 \frac{x + 3}{x^2 + 6x + 9} = \frac{A}{x+3} + \frac{B}{(x+3)^2}
 $$
 ## Całkowanie funkcji wymiernych
-Jeżeli $\Delta < 0$ nie można użyć wcześniejszej metody. Zamiast jej można użyć jednego z następujących wzorów
+Jeżeli $\Delta < 0$ nie można użyć wcześniejszej metody. Zamiast jej można użyć jednego z następujących wzorów. 
 $$
 \int \frac{g'(x)}{g(x)}dx = \ln|g(x)| + C
+$$
+Czasami da się rozłożyć całkę ułamku prostego w następujący sposób.
+$$
+\int \frac{2x + 3}{x^2 + 1} dx = \int \frac{2x}{x^2+ 1} dx + 3 \int\frac{1}{x^2 + 1} dx
+$$
+$$
+\int \frac{2x}{x^2 + 1}dx = \ln|x^2 +1| + C
+$$
+$$
+\int \frac{1}{x^2 + 1} dx= \arctan (x) +C
 $$
 # Podstawienia Eulera
 Całkę postaci 
