@@ -47,6 +47,29 @@
             }
           },
           {
+            "id": "20dc142a0eacbfd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji niewymiernych.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1347d359145a2b41",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Całkowanie funkcji niewymiernych 2024-08-26 22.57.40.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "4456289cefd01d5e",
             "type": "leaf",
             "state": {
@@ -86,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji niewymiernych.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji niewymiernych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji niewymiernych.md"
               }
             }
           },
@@ -238,11 +261,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ee79fd812e6dfb45",
+  "active": "20dc142a0eacbfd9",
   "lastOpenFiles": [
+    "Excalidraw/Całkowanie funkcji niewymiernych 2024-08-26 22.57.40.excalidraw.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji niewymiernych.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji trygonometrycznych.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie przez części.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie ułamków prostych.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
     "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Excalidraw/Metody całkowania 2024-08-26 20.10.16.excalidraw.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
@@ -260,12 +289,6 @@
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/ANMAT - egz/Wzory trygonometryczne.md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
-    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
-    "Semestr 2/Opracowania/TOIS - egz/Wzór Heavyside'a.md",
-    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
-    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
     "Pasted image 20240818160511.png",
     "Pasted image 20240726230452.png",
     "Pasted image 20240618213527.png",
