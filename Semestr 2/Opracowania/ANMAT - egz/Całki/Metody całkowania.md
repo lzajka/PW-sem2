@@ -60,6 +60,54 @@ $$
 $$
 \int \frac{1}{x^2 + 1} dx= \arctan (x) +C
 $$
+## Twierdzenie Ostrogradskiego
+$$
+
+$$
+![[Metody całkowania 2024-08-26 20.10.16.excalidraw|size=100%]]
+Pod warunkiem, że $f(x)$ jest mniejszego stopnia niż $g(x)$.
+### Przykład
+$$
+\begin{lgathered}
+
+
+\int \frac{4x -2}{(x+2)^3} dx \\
+f(x) = 4x - 2\\
+g(x) = (x+2)^3\\ \\
+\hline
+g'(x) = 3(x+2)^2\\ \\
+
+G(x) = (x+2)^2\\
+
+W(x) = Ax + B\\ 
+
+s(x) = \frac{g(x)}{G(x)} = \frac{(x+2)^3}{(x+2)^2} = x+2 \\
+h(x) = C \\
+\hline \\
+\int \frac{4x-2}{(x+2)^3} dx = \frac{{Ax + B}}{(x+2)^2} + \int \frac{C}{x+2} dx
+\end{lgathered}
+$$
+Następnie robimy pochodną obu stron równania w celu wyliczenia współczynników.
+
+$$
+\begin{lgathered}
+\frac{4x-2}{(x+2)^3} = \left[ \frac{Ax+B}{(x+2)^2} \right]' + \frac{C}{x+2} \\
+\frac{4x-2}{(x+2)^3} = \frac{A(x+2)^2 - (Ax+B)*2(x+2)}{(x+2)^4} + \frac{C}{x+2} \\
+
+\end{lgathered}
+$$
+Współczynniki powinny wyjść następująco:
+$$
+\begin{cases}
+C = 0 \\
+A = -4  \\
+B = -3
+\end{cases}
+$$
+Więc ostatecznie całka po zastosowaniu twierdzenia Ostrogradskiego wygląda następująco:
+$$
+ \int \frac{4x-2}{(x+2)^3} dx = \frac{-4x - 3}{(x+2)^2} + \int 0 dx = \frac{-4x - 3}{(x+2)^2} + C
+$$
 # Podstawienia Eulera
 Całkę postaci 
 $$ \int \frac{1}{\sqrt{ x^2 +k }} dx$$
