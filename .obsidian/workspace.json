@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "046692f30caabff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e59740d5e4804aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee79fd812e6dfb45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "20dc142a0eacbfd9",
             "type": "leaf",
             "state": {
@@ -65,10 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0aa27244fecdba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d91e32076ecb29d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Zastosowania czwórników 2024-08-28 21.18.00.excalidraw.md"
               }
             }
           },
@@ -122,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md"
               }
             }
           },
@@ -276,8 +260,14 @@
   },
   "active": "d6a0f7f7c202ae0b",
   "lastOpenFiles": [
-    "Excalidraw/Czwórniki 2024-08-28 16.31.20.excalidraw.md",
+    "Pasted image 20240828215739.png",
+    "Pasted image 20240828215602.png",
+    "Pasted image 20240828215557.png",
     "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
+    "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "Excalidraw/Zastosowania czwórników 2024-08-28 21.18.00.excalidraw.md",
+    "Excalidraw/Czwórniki 2024-08-28 16.31.20.excalidraw.md",
     "Excalidraw/Czwórniki 2024-08-28 16.26.07.excalidraw.md",
     "Excalidraw/Czwórniki 2024-08-28 16.25.32.excalidraw.md",
     "Excalidraw/Czwórniki 2024-08-28 16.19.10.excalidraw.md",
@@ -301,17 +291,11 @@
     "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Excalidraw/Metody całkowania 2024-08-26 20.10.16.excalidraw.md",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
-    "Semestr 2/Opracowania/ANMAT - egz/funkcji ciągłej.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
-    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
     "Pasted image 20240818160511.png",
     "Pasted image 20240726230452.png",
     "Pasted image 20240618213527.png",
     "Pasted image 20240618215141.png",
     "Pasted image 20240618213524.png",
-    "Pasted image 20240618212712.png",
-    "Pasted Image 20240616231123_517.png",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",

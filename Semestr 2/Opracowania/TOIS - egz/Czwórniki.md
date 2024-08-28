@@ -6,7 +6,7 @@ Jeżeli wszystkie elementy czwórnika są liniowe to **czwórnik jest liniowy**,
 
 Jeżeli czwórnik nie wytwarza energii, a jedynie ją pobiera oraz przetwarza w określony sposób to **czwórnik jest pasywny**. Taki czwórnik może gromadzić, rozpraszać i oddawać energię pobraną ze źródła. Jednak nie jest w stanie oddać więcej niż pobrano.
 Czwórnik niebędący pasywnym jest czwórnikiem **aktywnym**, albo też **generatorem energii**.
-W czwórnikach możemy chcieć obliczyć np. **transmitancję operatorową**. W tym przypadku przechodzimy na model operatorowy, ale bez normalnie dodawanych wymuszeń.
+W czwórnikach możemy chcieć obliczyć np. **transmitancję operatorową**. W tym przypadku przechodzimy na model operatorowy, ale bez normalnie dodawanych wymuszeń. ^2c8cb3
 
 W przypadku czwórników konieczne jest spełnienie warunku równości prądów: $I_{1} = I_{1}'$, $I_{2} = I_{2}'$.
 
@@ -33,9 +33,12 @@ Z_{we}(s) = \frac{U_{we}(s)}{I_{we}(s)}
 $$
 W przeciwieństwie do transmitancji impedancja wejściowa liczona jest tylko na zaciskach wejściowych.
 
-
+# Odpowiedzi
+Posiadamy 2 rodzaje odpowiedzi:
+- Odpowiedź impulsową: $h(t) = \alpha^{-1}[H(s)]$
+- Odpowiedź skokową: $g(t) = \alpha^{-1}\left[ H(s)* \frac{1}{s} \right]$
 # Posiadamy 6 powszechnie używanych równań
-Czwórnik można scharakteryzować za pomocą dwóch równań liniowych. Równania te wiążą ze sobą 2 wartości napięciowe i prądowe.
+Czwórnik można scharakteryzować za pomocą dwóch równań liniowych. Równania te wiążą ze sobą 2 wartości napięciowe i prądowe.c 
 ## Impedancyjne
 $$
 \begin{bmatrix}
@@ -188,8 +191,3 @@ $$
 $$
 \mathbb{A} = A_{1}*A_{2}
 $$
-# Podział czwórników
-## Pasywne
-Nie zawierają źródeł, są same elementy RLC.
-## Aktywne
-Mogę mieć źródło sterowane.
