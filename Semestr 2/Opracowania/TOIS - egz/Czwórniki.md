@@ -29,7 +29,7 @@ Są 4 rodzaje transmitancji:
 # Impedancja wejściowa
 Transmitancje operatorowe można odnieść do impedancji wejściowej. 
 $$
-Z_{we}(s) = \frac{U_{we}(s)}{I_{we}(s)}
+Z_{we}(s) = \frac{U_{we}(s)}{I_{we}(s)} = \frac{A_{11}Z_{0} + A_{12}}{A_{21}Z_{0} + A_{22}}
 $$
 W przeciwieństwie do transmitancji impedancja wejściowa liczona jest tylko na zaciskach wejściowych.
 
