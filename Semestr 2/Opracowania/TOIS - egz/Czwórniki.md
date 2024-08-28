@@ -7,6 +7,9 @@ Jeżeli wszystkie elementy czwórnika są liniowe to **czwórnik jest liniowy**,
 Jeżeli czwórnik nie wytwarza energii, a jedynie ją pobiera oraz przetwarza w określony sposób to **czwórnik jest pasywny**. Taki czwórnik może gromadzić, rozpraszać i oddawać energię pobraną ze źródła. Jednak nie jest w stanie oddać więcej niż pobrano.
 Czwórnik niebędący pasywnym jest czwórnikiem **aktywnym**, albo też **generatorem energii**.
 W czwórnikach możemy chcieć obliczyć np. **transmitancję operatorową**. W tym przypadku przechodzimy na model operatorowy, ale bez normalnie dodawanych wymuszeń.
+
+W przypadku czwórników konieczne jest spełnienie warunku równości prądów: $I_{1} = I_{1}'$, $I_{2} = I_{2}'$.
+
 # Transmitancja
 Transmitancja jest stosunkiem wyjścia do wejścia. Dotyczy między innymi prądu oraz napięcia. 
 Jeżeli transmitancja napięciowa/prądowa jest
@@ -32,7 +35,7 @@ W przeciwieństwie do transmitancji impedancja wejściowa liczona jest tylko na 
 
 
 # Posiadamy 6 powszechnie używanych równań
-Ogólnie to najpierw wyliczamy układ z praw kichoffa no i wsadzamy to do jakieś macierzy z tych
+Czwórnik można scharakteryzować za pomocą dwóch równań liniowych. Równania te wiążą ze sobą 2 wartości napięciowe i prądowe.
 ## Impedancyjne
 $$
 \begin{bmatrix}
