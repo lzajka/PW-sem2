@@ -108,6 +108,6 @@ Przy założeniu idealności wzmacniacza operacyjnego $A \to \infty$. Ponieważ 
 
 Charakteryzuje się:
 - nieskończoną wartością wzmocnienia napięciowego.
-- Zerową wartością impedancji wyjściowej.
-- Nieskończoną impedancją wejściową.
+- Zerową wartością impedancji wyjściowej. 
+- Nieskończoną impedancją obu wejść. (dla nie idealnego to nie jest $\infty$, ale bardzo duża wartość więc tak, czy tak można traktować jako $\infty$)
 - Spełnia wszystkie powyższe cechy od $0 \to \infty$
