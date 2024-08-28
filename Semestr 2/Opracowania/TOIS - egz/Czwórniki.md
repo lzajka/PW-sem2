@@ -1,3 +1,36 @@
+#TOIS #Czwórniki
+Czwórniki to elementy czterozaciskowe posiadające 2 pary zacisków: wejście i wyjście.
+![[Pasted image 20240828004804.png]]
+# Definicja czwórnika
+Jeżeli wszystkie elementy czwórnika są liniowe to **czwórnik jest liniowy**, w przeciwnym razie **czwórnik jest nieliniowy**.
+
+Jeżeli czwórnik nie wytwarza energii, a jedynie ją pobiera oraz przetwarza w określony sposób to **czwórnik jest pasywny**. Taki czwórnik może gromadzić, rozpraszać i oddawać energię pobraną ze źródła. Jednak nie jest w stanie oddać więcej niż pobrano.
+Czwórnik niebędący pasywnym jest czwórnikiem **aktywnym**, albo też **generatorem energii**.
+W czwórnikach możemy chcieć obliczyć np. **transmitancję operatorową**. W tym przypadku przechodzimy na model operatorowy, ale bez normalnie dodawanych wymuszeń.
+# Transmitancja
+Transmitancja jest stosunkiem wyjścia do wejścia. Dotyczy między innymi prądu oraz napięcia. 
+Jeżeli transmitancja napięciowa/prądowa jest
+- $< 1$: czwórnik osłabia napięcie/prąd.
+- $=1$: wyjście i wejście są takie same
+- $> 1$: czwórnik wzmacnia napięcie/prąd.
+
+Są 4 rodzaje transmitancji:
+- Transmitancja napięciowa $H(s) = \frac{U_{wy}(s)}{U_{we}(s)}|_{I_{wy} = 0}$
+  ![[Czwórniki 2024-08-28 16.19.10.excalidraw|size=30%]]
+- Transmitancja prądowa $H(s) = \frac{I_{wy}(s)}{I_{we}(s)} \vert_{U_{wy}} = 0$
+  ![[Czwórniki 2024-08-28 16.26.07.excalidraw|size=30%]]
+- Transmitancja napięciowo-prądowa $H(s) = \frac{U_{wy}(s)}{I_{we}(s)} |_{I_{wy} = 0}$
+  ![[Czwórniki 2024-08-28 16.31.20.excalidraw|size=30%]]
+- Transmitancja prądowo-napięciowa
+> [!TIP] Warto zauważyć że rodzaj po | jest zawsze inny niż w liczniku, oraz że zawsze jest to wyjście.
+# Impedancja wejściowa
+Transmitancje operatorowe można odnieść do impedancji wejściowej. 
+$$
+Z_{we}(s) = \frac{U_{we}(s)}{I_{we}(s)}
+$$
+W przeciwieństwie do transmitancji impedancja wejściowa liczona jest tylko na zaciskach wejściowych.
+
+
 # Posiadamy 6 powszechnie używanych równań
 Ogólnie to najpierw wyliczamy układ z praw kichoffa no i wsadzamy to do jakieś macierzy z tych
 ## Impedancyjne

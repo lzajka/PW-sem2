@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md"
               }
             }
           },
@@ -276,11 +276,19 @@
   },
   "active": "d6a0f7f7c202ae0b",
   "lastOpenFiles": [
+    "Excalidraw/Czwórniki 2024-08-28 16.31.20.excalidraw.md",
+    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
+    "Excalidraw/Czwórniki 2024-08-28 16.26.07.excalidraw.md",
+    "Excalidraw/Czwórniki 2024-08-28 16.25.32.excalidraw.md",
+    "Excalidraw/Czwórniki 2024-08-28 16.19.10.excalidraw.md",
+    "Pasted image 20240828005122.png",
+    "Pasted image 20240828004804.png",
+    "Pasted image 20240828004603.png",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność warunkowa i bezwzględna.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Suma szeregu.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Oszacowanie stirlinga.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji niewymiernych.md",
@@ -297,11 +305,6 @@
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Znane szeregi.md",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
     "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
-    "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
-    "Metoda Residuów.md",
-    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
     "Pasted image 20240818160511.png",
     "Pasted image 20240726230452.png",
     "Pasted image 20240618213527.png",
@@ -309,9 +312,6 @@
     "Pasted image 20240618213524.png",
     "Pasted image 20240618212712.png",
     "Pasted Image 20240616231123_517.png",
-    "Pasted Image 20240616231053_507.png",
-    "Pasted Image 20240616230533_485.png",
-    "Pasted image 20240616211923.png",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",
