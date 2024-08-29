@@ -15,7 +15,7 @@ $$
 $$
 
 ## Podstawienie cosinusowe
-Stosujemy gdy $\sin$ jest w potędze nie parzystej. Albo, bardziej precyzyjnie: wtedy, gdy dla odpowiedniego $\sin$ funkcja zmienia znak.
+Stosujemy gdy $\sin$ jest w potędze nieparzystej. Albo, bardziej precyzyjnie: wtedy, gdy dla odpowiedniego $\sin$ funkcja zmienia znak.
 $$
 R(\cos x, \sin x) = -R(\cos x, -\sin x)
 $$
