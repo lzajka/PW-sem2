@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md"
               }
             }
           },
@@ -260,10 +260,20 @@
   },
   "active": "d6a0f7f7c202ae0b",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
+    "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
+    "Semestr 2/Opracowania/TOIS - egz/Wzór Heavyside'a.md",
     "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji trygonometrycznych.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
-    "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
     "Pasted image 20240828215739.png",
     "Pasted image 20240828215602.png",
     "Pasted image 20240828215557.png",
@@ -281,16 +291,7 @@
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Zbieżność warunkowa i bezwzględna.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Suma szeregu.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Oszacowanie stirlinga.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji niewymiernych.md",
-    "Excalidraw/Całkowanie funkcji niewymiernych 2024-08-26 22.57.40.excalidraw.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie przez części.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie ułamków prostych.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
-    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
-    "Excalidraw/Metody całkowania 2024-08-26 20.10.16.excalidraw.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
     "Pasted image 20240818160511.png",
     "Pasted image 20240726230452.png",
     "Pasted image 20240618213527.png",
