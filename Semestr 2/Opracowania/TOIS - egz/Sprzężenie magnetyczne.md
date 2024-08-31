@@ -6,6 +6,7 @@ W przeciwnym przypadku cewki są **różnoimienne**. W tym przypadku postępujem
 > [!WARNING] Napięcie na dodanych cewkach $X_{M}$ jest takie jakby przepływał na nich prąd z sprzężonej gałęzi. 
 > Dla różnoimiennych prąd płynie odwrotnie.
 
+> [!WARNING] Napięcie na "dodatkowej cewce" wychodzącej z węzła nie istnieje.
 # Sprzężenie magnetyczne oddzielnych gałęzi
 Jeżeli gałęzie nie są ze sobą w żaden sposób połączone, w przypadku cewek jednoimiennych:
 $$
