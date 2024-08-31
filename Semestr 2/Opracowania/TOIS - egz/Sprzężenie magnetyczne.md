@@ -1,17 +1,21 @@
+# Napięcie na cewkach sprzężonych
+W postaci skutecznej zespolonej obwodu wyglądają one następująco.
+Dla cewek jednoimiennych, czyli takich w których gwiazdka jest tak samo usytuowana względem wspólnego wierzchołka.
+![[Pasted image 20240831152445.png]]
+Napięcie na obu cewkach wygląda w sposób następujący
+$$
+U_{L_{1}} = I_{1} jX_{L_{1}} + I_{2} j X_{M} 
+$$
+$$
+U_{L_{2}} =I_{2} j X_{L_{2}} + I_{1} X_{M}
+$$
+W przypadku cewek różnoimiennych 
+![[Pasted image 20240831152814.png]]
+to, część $+ I_{x}X_{M}$ staje się $-I_{x}X_{M}$.
 # Eliminacja sprzężeń
-Jeżeli cewki są **jednoimienne** tzn. że ich gwiazdki są tak samo blisko węzła to w tych gałęziach tworzymy nowe cewki o reaktancji $-X_{M}$
-Dodatkowo tworzymy nową cewkę o reaktancji: $X_{M}$ która jest pewnego rodzaju mostkiem.
-W przeciwnym przypadku cewki są **różnoimienne**. W tym przypadku postępujemy podobnie, tylko z przeciwnym znakami dla reaktancji $X_{M}$
+Można zauważyć, że na podstawie tego 
+ 
 
-> [!WARNING] Napięcie na dodanych cewkach $X_{M}$ jest takie jakby przepływał na nich prąd z sprzężonej gałęzi. 
-> Dla różnoimiennych prąd płynie odwrotnie.
+> [!WARNING] Napięcia na elementach sprzężonych liczymy **przed** eliminacją sprzężeń
+> Eliminacja sprzężeń służy tylko do obliczania prądu w obwodzie.
 
-> [!WARNING] Napięcie na "dodatkowej cewce" wychodzącej z węzła nie istnieje.
-# Sprzężenie magnetyczne oddzielnych gałęzi
-Jeżeli gałęzie nie są ze sobą w żaden sposób połączone, w przypadku cewek jednoimiennych:
-$$
-\underline{U_{1}} = j \omega L_{1} * \underline{I_{1}} + j\omega M*\underline{I_{2}}
-$$
-i analogicznie $\underline{U_{2}}$
-
-W przypadku cewek różnoimiennych to zamiast $+$ dajemy $-$
