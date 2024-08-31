@@ -132,32 +132,6 @@ U_{1} \\
 -I_{1}
 \end{bmatrix}
 $$
-# Transmitancje operatorowe
-## Napięciowa
-$$
-H(s) = \frac{U_{2}(s)}{U_{1}(s)} | _{U_{2} = 0}
-$$
-W przypadku macierzy łańcuchowej $H(s)$ można łatwo obliczyć:
-$$
-H(s)=\frac{1}{A_{11}}
-$$
-W przypadku macierzy admitancyjnej
-$$
-H(s) = - \frac{Y_{21}}{Y_{22}}
-$$
-Ogólnie do wyznaczenia wystaczy podstawić w miejsce $I_{2} = 0$
-## Prądowa
-$$
-H(s)=\frac{I_{2}}{I_{1}} | _{U_{2} = 0}
-$$
-W przypadku macierzy łańcuchowej $H(s)$ można łatwo obliczyć:
-$$
-H(s)=-\frac{1}{A_{22}}
-$$
-W przypadku macierzy admitancyjnej
-$$
-H(s) =  \frac{Y_{21}}{Y_{11}}
-$$
 # Połączenia czwórnikowe
 ## Szeregowe
 Tutaj warto impedancją
