@@ -69,6 +69,7 @@ U_{1} \\
 U_{2}
 \end{bmatrix}
 $$
+Gdzie $Y = Z^-1$
 
 ## Hybrydowe
 Tutaj praktycznie góra macierzy to macierz impedancja, a dół admiracyjna
@@ -86,6 +87,7 @@ I_{1} \\
 U_{2}
 \end{bmatrix}
 $$
+Parametr $H_{11}$ ma charakter impedancji, a $H_{22}$ admitancji.
 ## Hybrydowe odwrotne
 $$
 \begin{bmatrix}
