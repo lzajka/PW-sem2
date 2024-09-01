@@ -36,7 +36,7 @@ g = \lim_{ n \to \infty } \frac{a_{n}}{b_{n}}
 $$
 - Jeżeli $0 < q < \infty$ oba szeregi są zarówno zbieżne lub rozbieżne
 - Jeżeli $q = 0$ ze zbieżności $b_{n}$ wynika zbieżność $a_{n}$ i na odwrót
-- Jeżeli $q = \infty$ z rozbieżności $b_{n}$ wynika rozbieżność $a_{n}$ i n a odwrót
+- Jeżeli $q = \infty$ z rozbieżności $b_{n}$ wynika rozbieżność $a_{n}$ i na a odwrót
 # Kryterium Leibniza
 Kryterium Leibniza jest przydatne w przypadku szeregów naprzemiennych (takich że znak zmienia się dla każdego elementu ciągu. Szereg naprzemienny zapisuje się w następującej postaci.
 $$
