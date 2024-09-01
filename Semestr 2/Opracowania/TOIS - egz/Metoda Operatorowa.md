@@ -5,7 +5,7 @@ Obwód się np. nagle zamyka, no i musi jakoś łagodnie przejść.
 # Schemat
 1. **Wyznaczamy warunki początkowe**
 	1. W przypadku napięcia sinusoidalnego wystarczy za $t$ podstawić $0$
-	2. Kondensator -> przerwa, Cewka -> zwarcie
+	2. Dla DC: Kondensator -> przerwa, Cewka -> zwarcie
 	3. Liczmy prąd na cewcie i napięcie na kondensatorze
 3. **Wyznaczamy stan ustalony po przełączeniu**
 	1. Miejsce które odcięła klapka jest teraz połączone

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Laplace.md"
               }
             }
           },
@@ -260,30 +260,32 @@
   },
   "active": "a0aa27244fecdba2",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
+    "Semestr 2/Opracowania/TOIS - egz/Wzór Heavyside'a.md",
+    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
+    "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
+    "Semestr 2/Opracowania/TOIS - egz/Transformatory.md",
     "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
-    "Semestr 2/Opracowania/TOIS - egz/Transformatory.md",
     "Pasted image 20240901125122.png",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
     "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
     "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
-    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
     "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
     "Pasted image 20240831152814.png",
     "Pasted image 20240831152809.png",
     "Pasted image 20240831152445.png",
     "Pasted image 20240831152112.png",
-    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
-    "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
-    "Semestr 2/Opracowania/TOIS - egz/Wzór Heavyside'a.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji trygonometrycznych.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
     "Pasted image 20240828215739.png",
@@ -292,7 +294,6 @@
     "Excalidraw/Zastosowania czwórników 2024-08-28 21.18.00.excalidraw.md",
     "Excalidraw/Czwórniki 2024-08-28 16.31.20.excalidraw.md",
     "Excalidraw/Czwórniki 2024-08-28 16.26.07.excalidraw.md",
-    "Excalidraw/Czwórniki 2024-08-28 16.25.32.excalidraw.md",
     "Pasted image 20240828005122.png",
     "Pasted image 20240828004804.png",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
