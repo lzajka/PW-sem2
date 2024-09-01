@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Transformatory.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Transformatory.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Transformatory.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md"
               }
             }
           },
@@ -258,18 +258,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d6a0f7f7c202ae0b",
+  "active": "a0aa27244fecdba2",
   "lastOpenFiles": [
-    "Pasted image 20240901125122.png",
+    "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
-    "Semestr 2/Opracowania/TOIS - egz/Transformatory.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Transformatory.md",
+    "Pasted image 20240901125122.png",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
     "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
-    "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
     "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
     "Semestr 2/Opracowania/TOIS - egz/Moce.md",
     "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
@@ -295,7 +295,6 @@
     "Excalidraw/Czwórniki 2024-08-28 16.25.32.excalidraw.md",
     "Pasted image 20240828005122.png",
     "Pasted image 20240828004804.png",
-    "Pasted image 20240828004603.png",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",

@@ -25,7 +25,7 @@ $$
 4. Obliczenie składowej przejściowej (system operatorowy -> transformata laplace -> składowa przejściowa)
 # Schema
 ![[Pasted image 20240618232257.png]]
-1. Zaczynasz w momencie w którym $\omega = 0$ i $t = 0$
+1. Zaczynasz w momencie w którym $t = 0$
    ![[Pasted image 20240618232326.png]]
 2. Zamykasz klapkę.
    ![[Pasted image 20240618232523.png]]
