@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md"
               }
             }
           },
@@ -260,6 +260,7 @@
   },
   "active": "a0aa27244fecdba2",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
@@ -293,7 +294,6 @@
     "Pasted image 20240828215602.png",
     "Pasted image 20240828215557.png",
     "Excalidraw/Zastosowania czwórników 2024-08-28 21.18.00.excalidraw.md",
-    "Excalidraw/Czwórniki 2024-08-28 16.31.20.excalidraw.md",
     "Pasted image 20240828005122.png",
     "Pasted image 20240828004804.png",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",

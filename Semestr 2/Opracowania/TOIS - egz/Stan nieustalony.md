@@ -18,11 +18,16 @@ Uproszczenie prawa komutacji dla cewek wygląda następująco.
 $$
 i_{L}(0^-) = i_{L}(0^+)
 $$
-# Schemat
-1. Warunki początkowe (Dla DC: zwarte cewki, rozwarte kondensatory
-2. Stan ustalony po przełączeniu (Dla DC: zwarte cewki, rozwarte kondensatory)
-3. składowa przejściowa (Dla AC: rozwarte źródła prądu, zwarte źródła napięcia)
-4. Obliczenie składowej przejściowej (system operatorowy -> transformata laplace -> składowa przejściowa)
+# Schemat DC
+1. Stan początkowy
+2. Model operatorowy po przełączeniu
+3. Transformacja odwrotna Laplace'a
+# Schemat AC
+1. Stan początkowy
+2. Stan ustalony po przełączeniu
+3. Stan przejściowy metodą operatorową po przełączeniu (bez źródeł sinusoidalnych)
+4. Transformacja odwrotna laplaca i przejście na dziedzinę czasu
+5. Pełne rozwiązanie $i_{l}(t) = i_{lu}(t) + i_{lp}(t)$, podobnie dla napięcia. 
 # Schema
 ![[Pasted image 20240618232257.png]]
 1. Zaczynasz w momencie w którym $t = 0$
