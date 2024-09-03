@@ -35,3 +35,9 @@ $$
 \int \frac{1}{x^2 + a^2} dx = \frac{1}{a} \arctan \frac{x}{a} + C
 $$
 
+$$
+\int f(h(x)) h'(x) dx = F(h(x)) + C
+$$
+$$
+\int (f'(x) g(x) + f(x)g'(x)) dx = f(x) g(x) + C
+$$
