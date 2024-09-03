@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +52,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6d900e34940c45b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbc757b13b61c81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -85,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md"
               }
             }
           },
@@ -238,35 +263,35 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4456289cefd01d5e",
+  "active": "20dc142a0eacbfd9",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
+    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
+    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
+    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
+    "Excalidraw/Drawing 2024-09-03 20.13.11.excalidraw.md",
+    "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
+    "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
+    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
+    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
+    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
+    "Semestr 2/Opracowania/TOIS - egz/Transformatory.md",
+    "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
+    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
     "Pasted image 20240903161544.png",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory rekurencyjne.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie przez części.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie ułamków prostych.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md",
-    "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Rolle'a.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Funkcje hiperboliczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
-    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
-    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
-    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
-    "Semestr 2/Opracowania/TOIS - egz/Wzór Heavyside'a.md",
-    "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
-    "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
-    "Semestr 2/Opracowania/TOIS - egz/Transformatory.md",
     "Pasted image 20240901125122.png",
     "Pasted image 20240831152814.png",
     "Pasted image 20240831152809.png",

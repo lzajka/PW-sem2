@@ -32,7 +32,10 @@ $$
 Z_{we}(s) = \frac{U_{we}(s)}{I_{we}(s)} = \frac{A_{11}Z_{0} + A_{12}}{A_{21}Z_{0} + A_{22}}
 $$
 W przeciwieństwie do transmitancji impedancja wejściowa liczona jest tylko na zaciskach wejściowych.
-
+# Impedancja wejściowa
+$$
+Z_{wy}(s) = \frac{U_{wy}(s)}{I_{wy}(s)} = \frac{A_{11} +A_{12} Y_{0}}{A_{21} + A_{22}Y_{0}}
+$$
 # Odpowiedzi
 Posiadamy 2 rodzaje odpowiedzi:
 - Odpowiedź impulsową: $h(t) = \alpha^{-1}[H(s)]$
