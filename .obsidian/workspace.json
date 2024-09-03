@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md"
               }
             }
           },
@@ -240,6 +240,14 @@
   },
   "active": "4456289cefd01d5e",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md",
+    "Pasted image 20240903161544.png",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory rekurencyjne.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie przez części.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie ułamków prostych.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Rolle'a.md",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje hiperboliczne.md",
@@ -259,23 +267,15 @@
     "Semestr 2/Opracowania/TOIS - egz/Twierdzenie Thevenina.md",
     "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
     "Semestr 2/Opracowania/TOIS - egz/Transformatory.md",
-    "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
-    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
     "Pasted image 20240901125122.png",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
-    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
-    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
-    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
     "Pasted image 20240831152814.png",
     "Pasted image 20240831152809.png",
     "Pasted image 20240831152445.png",
     "Pasted image 20240831152112.png",
-    "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
     "Pasted image 20240828215739.png",
     "Pasted image 20240828215602.png",
     "Pasted image 20240828215557.png",
     "Pasted image 20240828005122.png",
-    "Pasted image 20240828004804.png",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje",
     "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności",
     "Semestr 2/Opracowania/ANMAT - egz/Pochodne",
