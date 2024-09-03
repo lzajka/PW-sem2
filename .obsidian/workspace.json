@@ -47,26 +47,6 @@
             }
           },
           {
-            "id": "d91e32076ecb29d8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Zastosowania czwórników 2024-08-28 21.18.00.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1347d359145a2b41",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Całkowanie funkcji niewymiernych 2024-08-26 22.57.40.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "4456289cefd01d5e",
             "type": "leaf",
             "state": {
@@ -106,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md"
+                "file": "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md"
               }
             }
           },
@@ -258,12 +238,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a0aa27244fecdba2",
+  "active": "4456289cefd01d5e",
   "lastOpenFiles": [
+    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",

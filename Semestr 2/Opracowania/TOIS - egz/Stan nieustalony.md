@@ -20,7 +20,7 @@ i_{L}(0^-) = i_{L}(0^+)
 $$
 # Schemat DC
 1. Stan początkowy
-2. Model operatorowy po przełączeniu
+2. Stan po przełączeniu ([[Metoda Operatorowa]])
 3. Transformacja odwrotna Laplace'a
 # Schemat AC
 1. Stan początkowy
