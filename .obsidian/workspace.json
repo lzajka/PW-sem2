@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Funkcje hiperboliczne.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Funkcje hiperboliczne.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Funkcje hiperboliczne.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/ANMAT - egz/Funkcje hiperboliczne.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Langrange'a (wartość średnia).md"
               }
             }
           },
@@ -240,8 +240,9 @@
   },
   "active": "4456289cefd01d5e",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Rolle'a.md",
     "Semestr 2/Opracowania/ANMAT - egz/Funkcje hiperboliczne.md",
+    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
     "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
@@ -270,7 +271,6 @@
     "Pasted image 20240831152112.png",
     "Semestr 2/Opracowania/ANMAT - egz/Twierdzenie Taylora  i Maclourina.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji trygonometrycznych.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
     "Pasted image 20240828215739.png",
     "Pasted image 20240828215602.png",
     "Pasted image 20240828215557.png",

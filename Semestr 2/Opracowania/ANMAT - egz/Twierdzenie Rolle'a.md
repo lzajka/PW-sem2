@@ -4,5 +4,5 @@ jeżeli funkcja $f(x)$ jest ciągła na $<a, b>$ i istnieje pochodna w $(a,b)$ o
 # Moja interpretacja
 Ponieważ funkcja jest ciągła na przedziale $<a, b>$ i wartość $f(a) = f(b)$ to mamy następujące przypadki:
 - Funkcja była cały czas stała, na całym przedziale, więc pochodna była równa 0 dla każdego $x$ w tym przedziale.
-- 🚫 Funkcja była typu $f(x) = |x|$, więc nie była różniczkowalna na przedziale $(a, b)$ 🚫
+- 🚫 Funkcja była typu $f(x) = |x|$, więc nie była różniczkowalna na przedziale $(a, b)$ 🚫 (pochodna gwałtownie zmienia się w 0)
 - Funkcja przeszła z rosnącej/malejącej w malejącą/rosnącą.
