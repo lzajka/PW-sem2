@@ -26,7 +26,7 @@ $$
 1. Stan początkowy
 2. Stan ustalony po przełączeniu
 3. Stan przejściowy metodą operatorową po przełączeniu (bez źródeł sinusoidalnych)
-4. Transformacja odwrotna laplaca i przejście na dziedzinę czasu
+4. Transformacja odwrotna Laplace'a i przejście na dziedzinę czasu
 5. Pełne rozwiązanie $i_{l}(t) = i_{lu}(t) + i_{lp}(t)$, podobnie dla napięcia. 
 # Schema
 ![[Pasted image 20240618232257.png]]
