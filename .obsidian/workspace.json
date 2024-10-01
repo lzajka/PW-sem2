@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md"
+                "file": "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md"
               }
             }
           },
@@ -265,33 +265,33 @@
   },
   "active": "20dc142a0eacbfd9",
   "lastOpenFiles": [
-    "Semestr 2/Opracowania/TOIS - egz/Moce.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda zmiennych stanu.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda potencjałów węzłowych.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda prądów oczkowych.md",
-    "Semestr 2/Opracowania/TOIS - egz/Metoda Operatorowa.md",
-    "Semestr 2/Opracowania/TOIS - egz/Laplace.md",
-    "Semestr 2/Opracowania/TOIS - egz/Elementy pomiarowe.md",
-    "Semestr 2/Opracowania/TOIS - egz/Czwórniki.md",
-    "Semestr 2/Opracowania/TOIS - egz/Analiza obwodów przy wymuszeniu odkształconym (Zasada superpozycji).md",
+    "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Ciąg geometryczny.md",
     "Semestr 2/Opracowania/ANMAT - egz/Szeregi/Kryteria zbieżności.md",
-    "Excalidraw/Drawing 2024-09-03 20.13.11.excalidraw.md",
-    "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
-    "Semestr 2/Opracowania/TOIS - egz/Obwody trójfazowe.md",
-    "Semestr 2/Opracowania/TOIS - egz/Rezonans.md",
-    "Semestr 2/Opracowania/TOIS - egz/Sprzężenie magnetyczne.md",
-    "Semestr 2/Opracowania/TOIS - egz/Stan nieustalony.md",
-    "Semestr 2/Opracowania/TOIS - egz/Szereg fouriera.md",
-    "Semestr 2/Opracowania/TOIS - egz/Transformatory.md",
-    "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
-    "Semestr 2/Opracowania/TOIS - egz/Składowe symetryczne.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Przebieg zmienności funkcji.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Liczenie ekstremów funkcji wielu zmiennych.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Przebieg zmienności/Ciągłość funkcji.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Wzory.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Własności.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Twierdzenie Schwartza (Clairaut).md",
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji złożonej.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Pochodne/Pochodna funkcji.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Twierdzenie o 3 ciągach..md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Symbole oznaczone, nieoznaczone i reguły.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Ograniczenie z dołu i góry..md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice z liczbą e.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Granice.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Granice/Badanie istnienia granicy funkcji lub ciągu w punkcie.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie ułamków prostych.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie przez części.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji trygonometrycznych.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie funkcji niewymiernych.md",
+    "Semestr 2/Opracowania/ANMAT - egz/Całki/Metody całkowania.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Całka oznaczona w sensie Rienmanna.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Zastosowanie geometryczne całek.md",
-    "Pasted image 20240903161544.png",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory na całki.md",
     "Semestr 2/Opracowania/ANMAT - egz/Całki/Wzory rekurencyjne.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie przez części.md",
-    "Semestr 2/Opracowania/ANMAT - egz/Całki/Całkowanie ułamków prostych.md",
+    "Semestr 2/Opracowania/TOIS - egz/Zastosowania czwórników.md",
+    "Semestr 2/Opracowania/TOIS - egz/Transformacja Odwrotna Laplace'a.md",
+    "Pasted image 20240903161544.png",
     "Pasted image 20240901125122.png",
     "Pasted image 20240831152814.png",
     "Pasted image 20240831152809.png",
