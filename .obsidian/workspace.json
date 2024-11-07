@@ -14,7 +14,9 @@
               "type": "image",
               "state": {
                 "file": "Pasted image 20240626014451.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240626014451"
             }
           },
           {
@@ -27,7 +29,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Transformatory"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Metoda Operatorowa"
             }
           },
           {
@@ -53,7 +59,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Stan nieustalony"
             }
           },
           {
@@ -66,7 +74,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Metoda Operatorowa"
             }
           },
           {
@@ -79,7 +89,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Czwórniki"
             }
           },
           {
@@ -92,7 +104,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Metoda Operatorowa"
             }
           },
           {
@@ -105,7 +119,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Wzory trygonometryczne"
             }
           }
         ]
@@ -128,7 +144,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -143,7 +161,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -151,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -164,7 +186,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Składowe symetryczne"
             }
           }
         ]
@@ -195,7 +219,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20240626014451"
             }
           },
           {
@@ -207,7 +233,9 @@
                 "file": "Pasted image 20240626014451.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20240626014451"
             }
           },
           {
@@ -218,7 +246,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -228,7 +258,9 @@
               "type": "outline",
               "state": {
                 "file": "Pasted image 20240626014451.png"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20240626014451"
             }
           },
           {
@@ -236,7 +268,9 @@
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
